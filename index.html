@@ -67,7 +67,7 @@
             width = [12]
           }
           for (w of width){
-            $(father_id).append('<div class="col-'+w+' d-flex mondrian flex-column h-100 border border-dark" id="col'+ col_ids +'"></div>')
+            $(father_id).append('<div class="col-'+w+' d-flex mondrian flex-column h-100" id="col'+ col_ids +'"></div>')
             this_col_id = "#col"+ col_ids
             col_ids +=1
             if (layer != lastlayer){
@@ -78,7 +78,7 @@
         function rows(father_id, array_possible, layer, lastlayer){
           var nrow = array_possible[Math.floor(Math.random()*array_possible.length)]
           for (i of Array(nrow).keys()){
-            $(father_id).append('<div class="row mondrian border border-dark flex-fill" id="row'+ row_ids +'"></div>')
+            $(father_id).append('<div class="row mondrian flex-fill" id="row'+ row_ids +'"></div>')
             this_row_id = "#row"+ row_ids
             row_ids +=1
             if (layer != lastlayer){
@@ -92,6 +92,7 @@
                   boxes = $("div.mondrian:not(:has(*))")
                   elements = []
                   for (i of boxes){
+                    $(i).addClass("border border-3 border-dark")
                     w = $(i).width()
                     h = $(i).height()
                     area = w*h

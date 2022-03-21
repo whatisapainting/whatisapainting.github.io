@@ -173,6 +173,7 @@
                   
                   for (c of colors){
                     el = elements[Math.floor(Math.random()*elements.length)];
+                    $(el.obj).removeClass("bg-light")
                     $(el.obj).addClass(c)
                   }
         })

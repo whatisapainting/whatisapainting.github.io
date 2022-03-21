@@ -170,6 +170,10 @@
                   $("#museum").html(metadata["museum"])
                   $("#url").attr("href", metadata["url"])
                   
+                  for (el in elements){
+                    $(el.obj).addClass("bg-white")
+                  }
+                  
                   for (c of colors){
                     el = elements[Math.floor(Math.random()*elements.length)];
                     $(el.obj).addClass(c)

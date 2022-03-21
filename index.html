@@ -171,8 +171,7 @@
                   $("#url").attr("href", metadata["url"])
 
                   for (el in elements){
-                    console.log(el)
-                    $(el.obj).addClass("bg-light")
+                    $(elements[el].obj).addClass("bg-light")
                   }
                   
                   for (c of colors){

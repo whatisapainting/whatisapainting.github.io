@@ -167,6 +167,9 @@
                   medium = randomProperty(data)
                   metadata = randomElement(data[medium])
 
+                  for (el in elements){
+                    $(el.obj).addClass("bg-white")
+                  }
                   
                   for (c of colors){
                     el = elements[Math.floor(Math.random()*elements.length)];

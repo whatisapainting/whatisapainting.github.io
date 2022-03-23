@@ -1,82 +1,12 @@
 {
-    "Oil on cardboard": [
-        {
-            "museum": "J. Paul Getty Museum",
-            "url": "https://www.getty.edu/art/collection/objects/729/henri-de-toulouse-lautrec-the-model-resting-french-1889/"
-        },
-        {
-            "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/47419/woman-in-a-red-dress-or-j-r-against-a-window?ctx=5f931f23-72f0-4364-88e6-7cdc4cde2798&idx=7"
-        },
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228062"
-        },
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/61193"
-        },
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/52841"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/45259"
-        },
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1952.51"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/45514"
-        },
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/4826/"
-        },
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/433123/woman-seated-in-bed"
-        },
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/2109737"
-        },
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19675-spanier-spaniard"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/485073"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.53581.html"
-        },
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/4200/sunset?ctx=dd27cd2224cf36343b3f20a28c639bee9d13c144&idx=0"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79360"
-        },
-        {
-            "museum": "Princeton University Art Museum",
-            "url": "https://artmuseum.princeton.edu/collections/objects/32998"
-        }
-    ],
     "Oil on canvas": [
         {
             "museum": "J. Paul Getty Museum",
-            "url": "https://www.getty.edu/art/collection/objects/750/edvard-munch-starry-night-norwegian-1893/"
+            "url": "https://www.getty.edu/art/collection/objects/104858/fernand-khnopff-jeanne-kefer-belgian-1885/"
         },
         {
             "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/22405/lenfant-blonde-the-blonde-child?ctx=28a6c0b6-a531-40b3-9b32-7efc0ff9f96d&idx=2"
+            "url": "https://art.nelson-atkins.org/objects/66157/airport-1?ctx=a8155aa5-3df9-4d74-8f8f-405cadc32fc5&idx=0"
         },
         {
             "museum": "Harvard Art Museums",
@@ -84,19 +14,19 @@
         },
         {
             "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/98514"
+            "url": "https://collections.artsmia.org/art/3058"
         },
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/60172"
+            "url": "https://artgallery.yale.edu/collections/objects/44845"
         },
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/66139"
+            "url": "https://www.artic.edu/artworks/36678"
         },
         {
             "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1966.177"
+            "url": "https://www.denverartmuseum.org/en/object/1966.169"
         },
         {
             "museum": "Memphis Brooks Museum of Art",
@@ -112,61 +42,131 @@
         },
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/104447"
+            "url": "https://philamuseum.org/collection/object/52034"
         },
         {
             "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/1253/"
+            "url": "https://www.slam.org/collection/objects/3937/"
         },
         {
             "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/34077/caresse-maternelle"
+            "url": "https://collections.mfa.org/objects/33298/three-creole-women"
         },
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6635"
+            "url": "https://collection.barnesfoundation.org/objects/4691"
         },
         {
             "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/233234"
+            "url": "https://collections.lacma.org/node/246846"
         },
         {
             "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19264-woman-cloak"
+            "url": "https://www.albrightknox.org/artworks/19708r-untitled-compositions"
         },
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/789381"
+            "url": "http://www.metmuseum.org/art/collection/search/483257"
         },
         {
             "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Rij-Rousseau%27)&d=d"
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Stettheimer%27)&d=d"
         },
         {
             "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.89676.html"
+            "url": "https://www.nga.gov/collection/art-object-page.195462.html"
         },
         {
             "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/85207/tivolio-brothers?ctx=365534f199fd6ad05e304835819bac149286bdd4&idx=30"
+            "url": "https://emuseum.mfah.org/objects/53883/children-in-a-garden-the-nurse?ctx=bbacdd73384d55f74466f9d1eba812790037f18f&idx=1"
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/216210"
+            "url": "http://www.moma.org/collection/works/78727"
         },
         {
             "museum": "The Kimbell Art Museum",
-            "url": "https://kimbellart.org/collection/ap-198409"
+            "url": "https://kimbellart.org/collection/ap-198101"
         },
         {
             "museum": "Princeton University Art Museum",
-            "url": "https://artmuseum.princeton.edu/collections/objects/65726"
+            "url": "https://artmuseum.princeton.edu/collections/objects/24819"
         }
     ],
     "Oil on coarse fabric": [
         {
             "museum": "J. Paul Getty Museum",
             "url": "https://www.getty.edu/art/collection/objects/243174/paul-gauguin-arii-matamoe-the-royal-end-french-1892/"
+        }
+    ],
+    "Oil on cardboard": [
+        {
+            "museum": "J. Paul Getty Museum",
+            "url": "https://www.getty.edu/art/collection/objects/729/henri-de-toulouse-lautrec-the-model-resting-french-1889/"
+        },
+        {
+            "museum": "Nelson-Atkins Museum of Art",
+            "url": "https://art.nelson-atkins.org/objects/47419/woman-in-a-red-dress-or-j-r-against-a-window?ctx=5f931f23-72f0-4364-88e6-7cdc4cde2798&idx=7"
+        },
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/228258"
+        },
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/61193"
+        },
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/52841"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/16643"
+        },
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1952.51"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/45514"
+        },
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/13488/"
+        },
+        {
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/433123/woman-seated-in-bed"
+        },
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/2109737"
+        },
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/19675-spanier-spaniard"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490033"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.53581.html"
+        },
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/4200/sunset?ctx=dd27cd2224cf36343b3f20a28c639bee9d13c144&idx=0"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/34854"
+        },
+        {
+            "museum": "Princeton University Art Museum",
+            "url": "https://artmuseum.princeton.edu/collections/objects/32998"
         }
     ],
     "Oil on paper, laid down on canvas": [
@@ -190,7 +190,31 @@
         },
         {
             "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.46636.html"
+            "url": "https://www.nga.gov/collection/art-object-page.3238.html"
+        }
+    ],
+    "Oil on canvas mounted to Masonite": [
+        {
+            "museum": "Nelson-Atkins Museum of Art",
+            "url": "https://art.nelson-atkins.org/objects/67660/august-second?ctx=2a29bec8-fee6-4b6a-a6d9-fb39e4821bd1&idx=0"
+        }
+    ],
+    "Oil on canvas mounted on board": [
+        {
+            "museum": "Nelson-Atkins Museum of Art",
+            "url": "https://art.nelson-atkins.org/objects/20694/gaberndorf-ii?ctx=0faa96d0-b2ef-4461-8a79-509caf583f53&idx=2"
+        },
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/193790"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/492734"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80094"
         }
     ],
     "Oil on canvas with artist-painted wood frame": [
@@ -199,10 +223,24 @@
             "url": "https://art.nelson-atkins.org/objects/23315/himmel?ctx=84d50ec6-b7db-42a0-acbb-7cb2a15932c2&idx=0"
         }
     ],
+    "Oil on pulpboard": [
+        {
+            "museum": "Nelson-Atkins Museum of Art",
+            "url": "https://art.nelson-atkins.org/objects/18918/rose-with-gray?ctx=f3c6417b-f61f-4eed-8c89-ad938d523348&idx=1"
+        },
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/1556"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/53045"
+        }
+    ],
     "Oil on Masonite": [
         {
             "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/24729/mt-katahdinnovember-afternoon?ctx=84d50ec6-b7db-42a0-acbb-7cb2a15932c2&idx=1"
+            "url": "https://art.nelson-atkins.org/objects/17668/street-in-sannois?ctx=6bdf8f3f-3d82-4de4-b5ee-94cf105ee64d&idx=2"
         },
         {
             "museum": "Philadelphia Museum of Art",
@@ -229,36 +267,42 @@
             "url": "https://emuseum.mfah.org/objects/5549/city?ctx=45abac0cd229fc3177c9b5fd79252fd88fa94a30&idx=0"
         }
     ],
-    "Oil on pulpboard": [
+    "Oil and gouache on ragboard": [
         {
             "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/18918/rose-with-gray?ctx=f3c6417b-f61f-4eed-8c89-ad938d523348&idx=1"
-        },
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/1556"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/53045"
+            "url": "https://art.nelson-atkins.org/objects/23946/street-scene-in-montmartre?ctx=6bdf8f3f-3d82-4de4-b5ee-94cf105ee64d&idx=3"
         }
     ],
-    "Oil on canvas mounted on board": [
+    "Wax crayon, ink, and collage": [
         {
             "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/20694/gaberndorf-ii?ctx=0faa96d0-b2ef-4461-8a79-509caf583f53&idx=2"
+            "url": "https://art.nelson-atkins.org/objects/26823/book-glass-and-bottle-on-a-table?ctx=8e2e828e-b9bd-4ff7-9478-e47ed345754b&idx=0"
+        }
+    ],
+    "Oil on paperboard": [
+        {
+            "museum": "Nelson-Atkins Museum of Art",
+            "url": "https://art.nelson-atkins.org/objects/23982/coffee-grinder-and-glass?ctx=8e2e828e-b9bd-4ff7-9478-e47ed345754b&idx=1"
         },
         {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/193790"
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/50630"
+        },
+        {
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/35084/the-hill"
+        },
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6062"
         },
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/492734"
+            "url": "http://www.metmuseum.org/art/collection/search/488781"
         },
         {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80094"
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.150903.html"
         }
     ],
     "Oil on paper mounted on canvas": [
@@ -272,7 +316,7 @@
         },
         {
             "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/3653/"
+            "url": "https://www.slam.org/collection/objects/1457/"
         },
         {
             "museum": "Museum of Fine Arts Boston",
@@ -288,17 +332,69 @@
         },
         {
             "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/47428/a-box-at-the-opera?ctx=d204bfdb8c2f59d30a0b42d2d30612a5c8285123&idx=25"
+            "url": "https://emuseum.mfah.org/objects/43874/the-three-judges?ctx=d204bfdb8c2f59d30a0b42d2d30612a5c8285123&idx=26"
         },
         {
             "museum": "The Museum of Modern Art",
             "url": "http://www.moma.org/collection/works/79216"
         }
     ],
-    "Oil on canvas mounted to Masonite": [
+    "Oil on panel": [
         {
             "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/67660/august-second?ctx=2a29bec8-fee6-4b6a-a6d9-fb39e4821bd1&idx=0"
+            "url": "https://art.nelson-atkins.org/objects/47410/the-channel-at-gravelines-petitfortphilippe?ctx=a7125837-d79b-4f74-9a33-cefea38616fa&idx=0"
+        },
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/195672"
+        },
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/1830"
+        },
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/10083"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/110973"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/48672"
+        },
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/13461/"
+        },
+        {
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/32286/head-of-a-young-girl"
+        },
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5500"
+        },
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/232662"
+        },
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/197510v-abstraction"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/496203"
+        },
+        {
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Andre%27)&d=d"
+        },
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/82549/the-white-tablecloth?ctx=4c119647d6e6fdaa56c0b97584aeaf6a70f65d95&idx=2"
         }
     ],
     "Oil on canvas, mounted on Masonite": [
@@ -322,107 +418,45 @@
         },
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/486841"
+            "url": "http://www.metmuseum.org/art/collection/search/698757"
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78752"
+            "url": "http://www.moma.org/collection/works/79011"
         }
     ],
-    "Oil on panel": [
-        {
-            "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/47410/the-channel-at-gravelines-petitfortphilippe?ctx=a7125837-d79b-4f74-9a33-cefea38616fa&idx=0"
-        },
+    "Oil on wood panel": [
         {
             "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/325797"
-        },
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/10422"
+            "url": "https://www.harvardartmuseums.org/collections/object/228130"
         },
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/14943"
+            "url": "https://artgallery.yale.edu/collections/objects/8911"
         },
         {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/28067"
+            "museum": "Memphis Brooks Museum of Art",
+            "url": "http://emuseum.brooksmuseum.org/objects/315/vue-en-suisse-view-in-switzerland?ctx=1323de27d41020f9c7aaa68444f42a6b9bca726e&idx=1"
         },
         {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/48672"
-        },
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/13461/"
-        },
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/32286/head-of-a-young-girl"
+            "museum": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1958.25"
         },
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5001"
-        },
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/234164"
+            "url": "https://collection.barnesfoundation.org/objects/5111"
         },
         {
             "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/197510v-abstraction"
+            "url": "https://www.albrightknox.org/artworks/19567-femme-retroussant-sa-chemise-woman-lifting-her-chemise"
         },
         {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/496203"
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79241"
         },
         {
-            "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Dali%27)&d=d"
-        },
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/82549/the-white-tablecloth?ctx=4c119647d6e6fdaa56c0b97584aeaf6a70f65d95&idx=2"
-        }
-    ],
-    "Wax crayon, ink, and collage": [
-        {
-            "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/26823/book-glass-and-bottle-on-a-table?ctx=8e2e828e-b9bd-4ff7-9478-e47ed345754b&idx=0"
-        }
-    ],
-    "Oil on paperboard": [
-        {
-            "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/23982/coffee-grinder-and-glass?ctx=8e2e828e-b9bd-4ff7-9478-e47ed345754b&idx=1"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/50630"
-        },
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/251808/waterloo-bridge-london"
-        },
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6062"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/488781"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.150903.html"
-        }
-    ],
-    "Oil and gouache on ragboard": [
-        {
-            "museum": "Nelson-Atkins Museum of Art",
-            "url": "https://art.nelson-atkins.org/objects/23946/street-scene-in-montmartre?ctx=6bdf8f3f-3d82-4de4-b5ee-94cf105ee64d&idx=3"
+            "museum": "Princeton University Art Museum",
+            "url": "https://artmuseum.princeton.edu/collections/objects/36315"
         }
     ],
     "Oil on board": [
@@ -432,7 +466,7 @@
         },
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/84071"
+            "url": "https://artgallery.yale.edu/collections/objects/192910"
         },
         {
             "museum": "The Art Institute of Chicago",
@@ -440,19 +474,19 @@
         },
         {
             "museum": "Chrysler Museum of Art",
-            "url": "https://chrysler.emuseum.com/objects/25027/sicilian-girl-in-blue-shawl?ctx=260c4782-d2ee-4f2f-b4b1-73451113c814&idx=0"
+            "url": "https://chrysler.emuseum.com/objects/15742/trees-by-the-edge-of-a-river?ctx=8f1fce44-67c8-4bdf-8c10-d39addeaa198&idx=18"
         },
         {
             "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/2020.118"
+            "url": "https://clevelandart.org/art/2020.102"
         },
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/336502"
+            "url": "https://philamuseum.org/collection/object/331290"
         },
         {
             "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/7614/"
+            "url": "https://www.slam.org/collection/objects/34064/"
         },
         {
             "museum": "Los Angeles County Museum of Art",
@@ -476,11 +510,17 @@
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79185"
+            "url": "http://www.moma.org/collection/works/80638"
         },
         {
             "museum": "Princeton University Art Museum",
             "url": "https://artmuseum.princeton.edu/collections/objects/65727"
+        }
+    ],
+    "Oil on cardboard, mounted on composition board": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/228810"
         }
     ],
     "Emulsion (probably oil, tempera, and wax) on composite board": [
@@ -497,46 +537,6 @@
         {
             "museum": "Minneapolis Institute of Art",
             "url": "https://collections.artsmia.org/art/5035"
-        }
-    ],
-    "Oil on wood panel": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228130"
-        },
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/8911"
-        },
-        {
-            "museum": "Memphis Brooks Museum of Art",
-            "url": "http://emuseum.brooksmuseum.org/objects/315/vue-en-suisse-view-in-switzerland?ctx=1323de27d41020f9c7aaa68444f42a6b9bca726e&idx=1"
-        },
-        {
-            "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/1958.25"
-        },
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5141"
-        },
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19567-femme-retroussant-sa-chemise-woman-lifting-her-chemise"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79241"
-        },
-        {
-            "museum": "Princeton University Art Museum",
-            "url": "https://artmuseum.princeton.edu/collections/objects/21926"
-        }
-    ],
-    "Oil on cardboard, mounted on composition board": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228810"
         }
     ],
     "Oil on masonite": [
@@ -559,136 +559,6 @@
             "url": "https://www.harvardartmuseums.org/collections/object/230320"
         }
     ],
-    "Oil on card": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/221761"
-        }
-    ],
-    "Oil on composition board": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228641"
-        },
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/34288"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/200681"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/50727"
-        },
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/rca19432-flowers-claire-spencers-garden"
-        },
-        {
-            "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Gleizes%27)&d=d"
-        }
-    ],
-    "Distemper on burlap": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/223760"
-        },
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/13512/"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.121097.html"
-        }
-    ],
-    "Oil on cradled panel": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228185"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/66149"
-        }
-    ],
-    "Oil on paper mounted on panel": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228202"
-        }
-    ],
-    "Oil on canvas, mounted to wood": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/223782"
-        }
-    ],
-    "Oil and casein on canvas": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/299849"
-        }
-    ],
-    "Oil and wax on cardboard": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/222162"
-        }
-    ],
-    "Oil (tempera?) on canvas": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/227734"
-        }
-    ],
-    "Oil on panel mounted on cardboard": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/220256"
-        }
-    ],
-    "Oil on canvas mounted on wood": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/229553"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78745"
-        }
-    ],
-    "Oil on commercially woven cotton fabric": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/304414"
-        }
-    ],
-    "Oil on academy board": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/227605"
-        },
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/1553"
-        },
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/48031"
-        },
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5691"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.66427.html"
-        }
-    ],
     "Oil on wood": [
         {
             "museum": "Harvard Art Museums",
@@ -696,7 +566,7 @@
         },
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/47776"
+            "url": "https://artgallery.yale.edu/collections/objects/48173"
         },
         {
             "museum": "The Art Institute of Chicago",
@@ -716,7 +586,7 @@
         },
         {
             "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/rca194120-head-girl"
+            "url": "https://www.albrightknox.org/artworks/19487-%C3%A9tude-pour-la-grande-jatte-study-la-grande-jatte"
         },
         {
             "museum": "The Metropolitan Museum of Art",
@@ -724,7 +594,7 @@
         },
         {
             "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.1157.html"
+            "url": "https://www.nga.gov/collection/art-object-page.166491.html"
         },
         {
             "museum": "Museum of Fine Arts Houston",
@@ -732,53 +602,33 @@
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79895"
+            "url": "http://www.moma.org/collection/works/79448"
         }
     ],
-    "Watercolor on primed canvas": [
+    "Oil on composition board": [
         {
             "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/353952"
-        }
-    ],
-    "Colored paste and oil on paper on jute": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/227564"
-        }
-    ],
-    "Oil on burlap": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/222181"
+            "url": "https://www.harvardartmuseums.org/collections/object/228641"
         },
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/52540"
+            "url": "https://artgallery.yale.edu/collections/objects/34288"
         },
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/134057"
+            "url": "https://www.artic.edu/artworks/79588"
         },
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/46858"
-        },
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/7269/"
-        },
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/495495/untitled"
+            "url": "https://philamuseum.org/collection/object/50727"
         },
         {
             "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19604-le-village-dans-la-for%C3%AAt-village-forest"
+            "url": "https://www.albrightknox.org/artworks/rca19432-flowers-claire-spencers-garden"
         },
         {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78479"
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Gleizes%27)&d=d"
         }
     ],
     "Oil and crayon on board": [
@@ -787,46 +637,16 @@
             "url": "https://www.harvardartmuseums.org/collections/object/343022"
         }
     ],
-    "Oil, graphite, and plaster on canvas": [
+    "Oil on asbestos panel": [
         {
             "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/76807"
-        }
-    ],
-    "Oil with resin and putty on hardboard": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/356312"
-        }
-    ],
-    "Oil and graphite on translucent paper, mounted to composite board": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/223132"
-        }
-    ],
-    "Oil on paper, mounted to board": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/20969"
+            "url": "https://www.harvardartmuseums.org/collections/object/227646"
         }
     ],
     "Oil, ink, and graphite on canvas": [
         {
             "museum": "Harvard Art Museums",
             "url": "https://www.harvardartmuseums.org/collections/object/221677"
-        }
-    ],
-    "Gouache on paper on a wooden strainer": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/228531"
-        }
-    ],
-    "Oil on paper mounted on cradled panel": [
-        {
-            "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/219695"
         }
     ],
     "Oil on linen canvas": [
@@ -865,16 +685,100 @@
             "url": "https://www.nga.gov/collection/art-object-page.46510.html"
         }
     ],
-    "Oil on asbestos panel": [
+    "Watercolor on primed canvas": [
         {
             "museum": "Harvard Art Museums",
-            "url": "https://www.harvardartmuseums.org/collections/object/227646"
+            "url": "https://www.harvardartmuseums.org/collections/object/353952"
+        }
+    ],
+    "Colored paste and oil on paper on jute": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/227564"
+        }
+    ],
+    "Oil on burlap": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/222181"
+        },
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/45057"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/134057"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/46858"
+        },
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/7269/"
+        },
+        {
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/495495/untitled"
+        },
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/19604-le-village-dans-la-for%C3%AAt-village-forest"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80410"
         }
     ],
     "Oil transferred to linen mounted on honeycomb panel": [
         {
             "museum": "Harvard Art Museums",
             "url": "https://www.harvardartmuseums.org/collections/object/227822"
+        }
+    ],
+    "Distemper on burlap": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/223760"
+        },
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/13512/"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.121097.html"
+        }
+    ],
+    "Oil on canvas, mounted to wood": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/223782"
+        }
+    ],
+    "Oil, graphite, and plaster on canvas": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/76807"
+        }
+    ],
+    "Oil with resin and putty on hardboard": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/356312"
+        }
+    ],
+    "Oil on card": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/221761"
+        }
+    ],
+    "Oil and casein on canvas": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/299849"
         }
     ],
     "Oil on millboard": [
@@ -901,6 +805,112 @@
             "url": "https://www.harvardartmuseums.org/collections/object/227521"
         }
     ],
+    "Oil and graphite on translucent paper, mounted to composite board": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/223132"
+        }
+    ],
+    "Oil on cradled panel": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/228185"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/59867"
+        }
+    ],
+    "Oil on paper mounted on panel": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/228202"
+        }
+    ],
+    "Oil on commercially woven cotton fabric": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/304414"
+        }
+    ],
+    "Oil (tempera?) on canvas": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/227734"
+        }
+    ],
+    "Oil on panel mounted on cardboard": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/220256"
+        }
+    ],
+    "Oil on academy board": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/227605"
+        },
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/1553"
+        },
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/48211"
+        },
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5691"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.66427.html"
+        }
+    ],
+    "Oil on paper, mounted to board": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/20969"
+        }
+    ],
+    "Gouache on paper on a wooden strainer": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/228531"
+        }
+    ],
+    "Oil on paper mounted on cradled panel": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/219695"
+        }
+    ],
+    "Oil and wax on cardboard": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/222162"
+        }
+    ],
+    "Oil on canvas mounted on wood": [
+        {
+            "museum": "Harvard Art Museums",
+            "url": "https://www.harvardartmuseums.org/collections/object/229553"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78745"
+        }
+    ],
+    "Oil on canvasboard": [
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/2806"
+        },
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/172981"
+        }
+    ],
     "Oil and tempera on canvas": [
         {
             "museum": "Minneapolis Institute of Art",
@@ -923,52 +933,16 @@
             "url": "https://collections.lacma.org/node/212443"
         }
     ],
-    "Oil on canvas (1970 catalogue lists 'oil type on linen')": [
+    "Oil on pulp board": [
         {
             "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/1434"
-        }
-    ],
-    "Oil on glass": [
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/61506"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118694"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/49541"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78985"
-        }
-    ],
-    "Oil on paper attached to linen": [
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/1539"
-        }
-    ],
-    "Oil on mattress ticking": [
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/774"
+            "url": "https://collections.artsmia.org/art/1639"
         }
     ],
     "Oil on canvas, mounted on panel": [
         {
             "museum": "Minneapolis Institute of Art",
             "url": "https://collections.artsmia.org/art/1321"
-        }
-    ],
-    "Tempera on wood panel": [
-        {
-            "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/8763"
         }
     ],
     "Oil on paper": [
@@ -997,6 +971,24 @@
             "url": "https://artmuseum.princeton.edu/collections/objects/33070"
         }
     ],
+    "Oil on glass": [
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/61506"
+        },
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/63776"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/49541"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78985"
+        }
+    ],
     "Oil on artist's board mounted on panel": [
         {
             "museum": "Minneapolis Institute of Art",
@@ -1009,20 +1001,28 @@
             "url": "https://collections.artsmia.org/art/1259"
         }
     ],
-    "Oil on pulp board": [
+    "Oil on paper attached to linen": [
         {
             "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/1639"
+            "url": "https://collections.artsmia.org/art/1539"
         }
     ],
-    "Oil on canvasboard": [
+    "Tempera on wood panel": [
         {
             "museum": "Minneapolis Institute of Art",
-            "url": "https://collections.artsmia.org/art/2806"
-        },
+            "url": "https://collections.artsmia.org/art/8763"
+        }
+    ],
+    "Oil on canvas (1970 catalogue lists 'oil type on linen')": [
         {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/172981"
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/1434"
+        }
+    ],
+    "Oil on mattress ticking": [
+        {
+            "museum": "Minneapolis Institute of Art",
+            "url": "https://collections.artsmia.org/art/774"
         }
     ],
     "Oil, gouache, and silver leaf on canvas": [
@@ -1031,54 +1031,10 @@
             "url": "https://artgallery.yale.edu/collections/objects/47868"
         }
     ],
-    "Collage of lace, sandpaper, cloth, netting, and paint on composition board": [
+    "Oil on canvas, with bottlebrush, safety pins, and bolt": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/74321"
-        }
-    ],
-    "Oil and spray paint on canvas": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/26236"
-        },
-        {
-            "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Sterne%27)&d=d"
-        }
-    ],
-    "Aqueous paint, either gouache or size, on fine weave linen": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/47458"
-        }
-    ],
-    "Oil on artist's board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/22707"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/94241"
-        }
-    ],
-    "Oil, graphite, charcoal, and tempera on canvas board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/44040"
-        }
-    ],
-    "Oil on matboard mounted on Masonite": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/13308"
-        }
-    ],
-    "Oil under glass. Frame by Legrain (wood)": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/51972"
+            "url": "https://artgallery.yale.edu/collections/objects/50128"
         }
     ],
     "Tempera on paperboard": [
@@ -1087,10 +1043,16 @@
             "url": "https://artgallery.yale.edu/collections/objects/34216"
         }
     ],
-    "Wood and cardboard relief, gouache, and oil on cardboard": [
+    "Tempera and oil on textured paper, mounted on canvas": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/23594"
+            "url": "https://artgallery.yale.edu/collections/objects/26120"
+        }
+    ],
+    "Oil, enamel, sand and wood on panel": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/34235"
         }
     ],
     "Gesso and oil on wood panel": [
@@ -1105,46 +1067,22 @@
             "url": "https://artgallery.yale.edu/collections/objects/52747"
         }
     ],
-    "Oil on commercial canvasboard": [
+    "Oil on canvas mounted on aluminum": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/48052"
+            "url": "https://artgallery.yale.edu/collections/objects/33949"
         }
     ],
-    "Oil and wood on plywood": [
+    "Gouache on heavy wove paper": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43675"
-        }
-    ],
-    "Oil and wood on composition board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/45316"
-        }
-    ],
-    "Wood, plywood, nails, and paint": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/49596"
-        }
-    ],
-    "Tempera and oil on textured paper, mounted on canvas": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/26120"
-        }
-    ],
-    "Oil on canvas with lateral metallic panels": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/51827"
+            "url": "https://artgallery.yale.edu/collections/objects/51222"
         }
     ],
     "Oil and sand on canvas": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/34238"
+            "url": "https://artgallery.yale.edu/collections/objects/274572"
         },
         {
             "museum": "The Art Institute of Chicago",
@@ -1176,7 +1114,7 @@
         },
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490021"
+            "url": "http://www.metmuseum.org/art/collection/search/483504"
         },
         {
             "museum": "National Gallery of Art",
@@ -1187,54 +1125,46 @@
             "url": "http://www.moma.org/collection/works/80434"
         }
     ],
-    "Oil on canvas board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/51288"
-        },
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/200684"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/292814"
-        },
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/233213"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/459162"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.130843.html"
-        }
-    ],
-    "Oil on paper adhered to canvas": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/24265"
-        }
-    ],
-    "Tempera on Paper": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43837"
-        }
-    ],
-    "Tempera on composition board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/44089"
-        }
-    ],
     "Oil, feathers, macaroni, and leather on canvas in a snakeskin frame by Pierre Legrain": [
         {
             "museum": "Yale University Art Gallery",
             "url": "https://artgallery.yale.edu/collections/objects/74403"
+        }
+    ],
+    "Gouache on modelled plaster over plywood": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/43973"
+        }
+    ],
+    "Oil painting": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/112451"
+        }
+    ],
+    "Oil and collage on academy board": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/31440"
+        }
+    ],
+    "Oil on canvas with red watercolor border around edges of canvas, laid down on cardboard mat": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/43828"
+        }
+    ],
+    "Oil and pencil on galalith": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/44043"
+        }
+    ],
+    "Oil on pasteboard": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/43994"
         }
     ],
     "Gouache on paper": [
@@ -1251,70 +1181,38 @@
             "url": "https://www.albrightknox.org/artworks/197424-composition"
         }
     ],
-    "Oil painting": [
+    "Collage of lace, sandpaper, cloth, netting, and paint on composition board": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/112451"
+            "url": "https://artgallery.yale.edu/collections/objects/74321"
         }
     ],
-    "Gouache on heavy wove paper": [
+    "Oil and spray paint on canvas": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/51222"
+            "url": "https://artgallery.yale.edu/collections/objects/26236"
+        },
+        {
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Sterne%27)&d=d"
         }
     ],
-    "Oil and mixed media (plaster and plaster mixed with sand?) on burlap laid down on canvas": [
+    "Aqueous paint, either gouache or size, on fine weave linen": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/24753"
+            "url": "https://artgallery.yale.edu/collections/objects/47458"
         }
     ],
-    "Oil and collage on canvas": [
+    "Charcoal on primed canvas": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43974"
+            "url": "https://artgallery.yale.edu/collections/objects/84190"
         }
     ],
-    "Oil and aluminum leaf on canvas": [
+    "Wood and cardboard relief, gouache, and oil on cardboard": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/44085"
-        }
-    ],
-    "Water soluble and metallic paint on wood": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/51116"
-        }
-    ],
-    "Oil on pasteboard": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43994"
-        }
-    ],
-    "Gouache on modelled plaster over plywood": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43973"
-        }
-    ],
-    "Oil and pencil on galalith": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/44043"
-        }
-    ],
-    "Tempera on plastic mounted on wood": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/13294"
-        }
-    ],
-    "Oil and collage on academy board": [
-        {
-            "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/31440"
+            "url": "https://artgallery.yale.edu/collections/objects/23594"
         }
     ],
     "Housepaint on canvas": [
@@ -1327,6 +1225,42 @@
         {
             "museum": "Yale University Art Gallery",
             "url": "https://artgallery.yale.edu/collections/objects/14757"
+        }
+    ],
+    "Oil and mixed media (plaster and plaster mixed with sand?) on burlap laid down on canvas": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/24753"
+        }
+    ],
+    "Oil on commercial canvasboard": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/48052"
+        }
+    ],
+    "Tempera on composition board": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/30209"
+        }
+    ],
+    "Oil under glass. Frame by Legrain (wood)": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/51972"
+        }
+    ],
+    "Oil and collage on canvas": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/43974"
+        }
+    ],
+    "Oil and aluminum leaf on canvas": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/44085"
         }
     ],
     "Tempera on canvas": [
@@ -1351,58 +1285,100 @@
             "url": "http://www.moma.org/collection/works/78458"
         }
     ],
-    "Oil, enamel, sand and wood on panel": [
+    "Oil and wood on plywood": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/34235"
+            "url": "https://artgallery.yale.edu/collections/objects/43675"
         }
     ],
-    "Oil on canvas, with bottlebrush, safety pins, and bolt": [
+    "Oil and wood on composition board": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/50128"
+            "url": "https://artgallery.yale.edu/collections/objects/45316"
         }
     ],
-    "Oil on canvas with red watercolor border around edges of canvas, laid down on cardboard mat": [
+    "Wood, plywood, nails, and paint": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/43828"
+            "url": "https://artgallery.yale.edu/collections/objects/49596"
         }
     ],
-    "Oil on canvas mounted on aluminum": [
+    "Oil, graphite, charcoal, and tempera on canvas board": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/33949"
+            "url": "https://artgallery.yale.edu/collections/objects/44040"
         }
     ],
-    "Charcoal on primed canvas": [
+    "Oil on matboard mounted on Masonite": [
         {
             "museum": "Yale University Art Gallery",
-            "url": "https://artgallery.yale.edu/collections/objects/84190"
+            "url": "https://artgallery.yale.edu/collections/objects/13308"
         }
     ],
-    "Oil, and possibly ink, on canvas": [
+    "Tempera on Paper": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/43837"
+        }
+    ],
+    "Tempera on plastic mounted on wood": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/13294"
+        }
+    ],
+    "Water soluble and metallic paint on wood": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/51116"
+        }
+    ],
+    "Oil on artist's board": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/22707"
+        },
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/49686"
+            "url": "https://www.artic.edu/artworks/94241"
         }
     ],
-    "Oil on canvas, mounted on board": [
+    "Oil on paper adhered to canvas": [
         {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/47637"
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/24265"
         }
     ],
-    "Oil and silver paper on canvas": [
+    "Oil on canvas with lateral metallic panels": [
         {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/134050"
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/51827"
         }
     ],
-    "Graphite and casein on panel": [
+    "Oil on canvas board": [
+        {
+            "museum": "Yale University Art Gallery",
+            "url": "https://artgallery.yale.edu/collections/objects/51288"
+        },
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118661"
+            "url": "https://www.artic.edu/artworks/200684"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/62310"
+        },
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/233213"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/459162"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.130843.html"
         }
     ],
     "Oil, sand, pebbles and string on canvas": [
@@ -1411,56 +1387,28 @@
             "url": "https://www.artic.edu/artworks/257310"
         }
     ],
-    "Oil and Ripolin on panel": [
+    "Oil, and possibly ink, on canvas": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/5357"
+            "url": "https://www.artic.edu/artworks/49686"
         }
     ],
-    "Oil and chalk on canvas": [
+    "Oil and silver paper on canvas": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/75315"
+            "url": "https://www.artic.edu/artworks/134050"
         }
     ],
-    "Oil on canvas (burlap) with painted wood frame": [
+    "Tempera and silver leaf on canvas": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/229824"
+            "url": "https://www.artic.edu/artworks/78503"
         }
     ],
-    "Oil on canvas with wooden matchsticks, hairpins, coins, leather hair rollers, and string": [
+    "Plaster and casein on burlap, mounted on cardboard": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118733"
-        }
-    ],
-    "Oil on paper, lined to canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/54891"
-        }
-    ],
-    "Oil and gouache on paper, mounted on cardboard and backed with canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/82413"
-        }
-    ],
-    "Oil, and possibly sand, on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/185778"
-        }
-    ],
-    "Stained glass": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/109439"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79658"
+            "url": "https://www.artic.edu/artworks/17444"
         }
     ],
     "Oil, gravel, pebbles, and sand on Masonite": [
@@ -1485,52 +1433,10 @@
             "url": "https://www.artic.edu/artworks/12752"
         }
     ],
-    "Oil on hardboard": [
+    "Oil and nails on wood": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/102582"
-        },
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5426"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.52376.html"
-        }
-    ],
-    "Oil on pressboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/242223"
-        }
-    ],
-    "Tempera and oil on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/151363"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/483042"
-        }
-    ],
-    "Oil on canvas mounted on hardboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/73643"
-        }
-    ],
-    "Oil and sand on cardboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/73644"
-        }
-    ],
-    "Oil, pasted papers, charcoal, pencil and ink on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/148414"
+            "url": "https://www.artic.edu/artworks/220179"
         }
     ],
     "Oil on paper, mounted on board": [
@@ -1539,82 +1445,16 @@
             "url": "https://www.artic.edu/artworks/52992"
         }
     ],
-    "Oil on eight joined panels": [
+    "Oil on paper, lined to canvas": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/72728"
+            "url": "https://www.artic.edu/artworks/54891"
         }
     ],
-    "Oil on board in carved and freestanding wooden frame with gesso, carved wood objects, and hair": [
+    "Oil and gouache on paper, mounted on cardboard and backed with canvas": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118735"
-        }
-    ],
-    "India ink on painted olive-wood block": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/136951"
-        }
-    ],
-    "Oil on cardboard; in artist's painted frame": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/8983"
-        }
-    ],
-    "Oil on plaster, transferred to canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/9148"
-        }
-    ],
-    "Tambourine with oil on vellum painting": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/204686"
-        }
-    ],
-    "Encaustic and collage on paper on board": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118657"
-        }
-    ],
-    "Oil on canvas with painted frame": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118592"
-        }
-    ],
-    "Oil on masonite with cork and metal sculpture": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/24671"
-        }
-    ],
-    "Encaustic on board": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/230054"
-        }
-    ],
-    "Tempera and silver leaf on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/78503"
-        }
-    ],
-    "Oil on emery paper, mounted on scrap-wood panel covered with industrial-grade black paper": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/90445"
-        }
-    ],
-    "Oil and sand on linen mounted on Masonite pressed-wood board, with cork frame by the artist": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/118687"
+            "url": "https://www.artic.edu/artworks/82413"
         }
     ],
     "Distemper on canvas": [
@@ -1639,12 +1479,6 @@
             "url": "http://www.moma.org/collection/works/80056"
         }
     ],
-    "Gouache and oil on cardboard mounted on cardboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/59976"
-        }
-    ],
     "Distemper on paper, mounted on canvas": [
         {
             "museum": "The Art Institute of Chicago",
@@ -1655,6 +1489,40 @@
         {
             "museum": "The Art Institute of Chicago",
             "url": "https://www.artic.edu/artworks/59979"
+        }
+    ],
+    "Stained glass": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/109439"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79658"
+        }
+    ],
+    "Oil on cardboard; in artist's painted frame": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/8983"
+        }
+    ],
+    "Oil with smoke on cardboard laid down on wood": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/209555"
+        }
+    ],
+    "Oil and sand on cardboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/73644"
+        }
+    ],
+    "Oil, pasted papers, charcoal, pencil and ink on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/148414"
         }
     ],
     "Oil on jute canvas": [
@@ -1669,6 +1537,12 @@
             "url": "https://www.artic.edu/artworks/8360"
         }
     ],
+    "Oil on eight joined panels": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/72728"
+        }
+    ],
     "Oil and encaustic on canvas": [
         {
             "museum": "The Art Institute of Chicago",
@@ -1679,10 +1553,32 @@
             "url": "https://www.albrightknox.org/artworks/19709-le-feu-dartifice-fireworks"
         }
     ],
-    "Oil on board and wood": [
+    "Oil on canvas with painted frame": [
         {
             "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/222570"
+            "url": "https://www.artic.edu/artworks/118592"
+        }
+    ],
+    "India ink on painted olive-wood block": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/136951"
+        }
+    ],
+    "Tempera and oil on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/151363"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/483042"
+        }
+    ],
+    "Oil, and possibly sand, on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/185778"
         }
     ],
     "Oil on artist's board, mounted on cradled panel": [
@@ -1691,62 +1587,16 @@
             "url": "https://www.artic.edu/artworks/80607"
         }
     ],
-    "Oil on canvas, mounted on pressboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/27954"
-        }
-    ],
-    "Plaster and casein on burlap, mounted on cardboard": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/17444"
-        }
-    ],
-    "Oil and nails on wood": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/220179"
-        }
-    ],
-    "Oil with smoke on cardboard laid down on wood": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/209555"
-        }
-    ],
-    "Oil and graphite on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/59822"
-        },
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/70908"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/646469"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.133102.html"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79200"
-        }
-    ],
-    "Oil and ink on canvas": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/100248"
-        }
-    ],
     "Distemper, with metallic paint and pastel, on fine-weave canvas, prepared with a glue size": [
         {
             "museum": "The Art Institute of Chicago",
             "url": "https://www.artic.edu/artworks/80604"
+        }
+    ],
+    "Oil on canvas with wooden matchsticks, hairpins, coins, leather hair rollers, and string": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/118733"
         }
     ],
     "Oil on cloth": [
@@ -1759,12 +1609,6 @@
         {
             "museum": "The Art Institute of Chicago",
             "url": "https://www.artic.edu/artworks/111666"
-        }
-    ],
-    "Oil on cotton, on cardboard nailed to wood": [
-        {
-            "museum": "The Art Institute of Chicago",
-            "url": "https://www.artic.edu/artworks/145244"
         }
     ],
     "Oil and plaster, over gauze, on panel": [
@@ -1801,6 +1645,216 @@
             "url": "https://www.artic.edu/artworks/10999"
         }
     ],
+    "Oil on canvas mounted on hardboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/73643"
+        }
+    ],
+    "Tambourine with oil on vellum painting": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/204686"
+        }
+    ],
+    "Oil on hardboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/102582"
+        },
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5426"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.52376.html"
+        }
+    ],
+    "Oil on pressboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/242223"
+        }
+    ],
+    "Oil and Ripolin on panel": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/5357"
+        }
+    ],
+    "Oil and chalk on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/75315"
+        }
+    ],
+    "Graphite and casein on panel": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/118661"
+        }
+    ],
+    "Oil on canvas, mounted on board": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/47637"
+        }
+    ],
+    "Oil on canvas (burlap) with painted wood frame": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/229824"
+        }
+    ],
+    "Gouache and oil on cardboard mounted on cardboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/59976"
+        }
+    ],
+    "Oil on board and wood": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/222570"
+        }
+    ],
+    "Oil on emery paper, mounted on scrap-wood panel covered with industrial-grade black paper": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/90445"
+        }
+    ],
+    "Oil and sand on linen mounted on Masonite pressed-wood board, with cork frame by the artist": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/118687"
+        }
+    ],
+    "Oil on board in carved and freestanding wooden frame with gesso, carved wood objects, and hair": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/118735"
+        }
+    ],
+    "Encaustic and collage on paper on board": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/118657"
+        }
+    ],
+    "Oil on masonite with cork and metal sculpture": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/24671"
+        }
+    ],
+    "Encaustic on board": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/230054"
+        }
+    ],
+    "Oil on canvas, mounted on pressboard": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/27954"
+        }
+    ],
+    "Oil on cotton, on cardboard nailed to wood": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/145244"
+        }
+    ],
+    "Oil on plaster, transferred to canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/9148"
+        }
+    ],
+    "Oil and graphite on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/59822"
+        },
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/70908"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/483344"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.133102.html"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79200"
+        }
+    ],
+    "Oil and ink on canvas": [
+        {
+            "museum": "The Art Institute of Chicago",
+            "url": "https://www.artic.edu/artworks/100248"
+        }
+    ],
+    "Oil paint on canvas": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/2017.131"
+        }
+    ],
+    "Oil paint on canvas on pasteboard": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/35.2017"
+        }
+    ],
+    "Oil and charcoal on paper": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1974.388"
+        }
+    ],
+    "Oil paint on panel": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/28.2017"
+        }
+    ],
+    "Oil paint and gouache on paper": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/2012.302"
+        }
+    ],
+    "Lithograph on paper": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/2013.54"
+        }
+    ],
+    "Oil paint and graphite on canvas": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1966.168"
+        }
+    ],
+    "Gouache, watercolor and pastel on paper": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1986.740"
+        }
+    ],
+    "Oil paint and gouache on board": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1974.359"
+        }
+    ],
     "Gouache on board": [
         {
             "museum": "Denver Art Museum",
@@ -1811,10 +1865,16 @@
             "url": "http://www.metmuseum.org/art/collection/search/481226"
         }
     ],
-    "Oil paint on canvas": [
+    "Pastel, crayon and watercolor on paper": [
         {
             "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/2017.131"
+            "url": "https://www.denverartmuseum.org/en/object/1968.133"
+        }
+    ],
+    "Watercolor": [
+        {
+            "museum": "Denver Art Museum",
+            "url": "https://www.denverartmuseum.org/en/object/1938.14"
         }
     ],
     "Watercolor on board": [
@@ -1839,66 +1899,6 @@
             "url": "https://www.denverartmuseum.org/en/object/1966.212"
         }
     ],
-    "Oil paint and graphite on canvas": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1966.168"
-        }
-    ],
-    "Lithograph on paper": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/2013.54"
-        }
-    ],
-    "Oil and charcoal on paper": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1974.388"
-        }
-    ],
-    "Pastel, crayon and watercolor on paper": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1968.133"
-        }
-    ],
-    "Oil paint on canvas on pasteboard": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/35.2017"
-        }
-    ],
-    "Watercolor": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1938.14"
-        }
-    ],
-    "Gouache, watercolor and pastel on paper": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1986.740"
-        }
-    ],
-    "Oil paint and gouache on paper": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/2012.302"
-        }
-    ],
-    "Oil paint on panel": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/28.2017"
-        }
-    ],
-    "Oil paint and gouache on board": [
-        {
-            "museum": "Denver Art Museum",
-            "url": "https://www.denverartmuseum.org/en/object/1974.359"
-        }
-    ],
     "Oil on canvas, transferred from plaster": [
         {
             "museum": "Chrysler Museum of Art",
@@ -1911,12 +1911,6 @@
             "url": "https://chrysler.emuseum.com/objects/31622/courtroom-scene?ctx=d1ec4469-699a-441c-b0ef-41ddcd8ae41e&idx=0"
         }
     ],
-    "Oil | Panel": [
-        {
-            "museum": "Chrysler Museum of Art",
-            "url": "https://chrysler.emuseum.com/objects/29086/beethoven?ctx=c5370752-82ff-4577-a44f-ad1d8d370880&idx=0"
-        }
-    ],
     "Oil on paper, mounted on canvas": [
         {
             "museum": "Chrysler Museum of Art",
@@ -1927,34 +1921,22 @@
             "url": "http://www.metmuseum.org/art/collection/search/490024"
         }
     ],
+    "Oil | Panel": [
+        {
+            "museum": "Chrysler Museum of Art",
+            "url": "https://chrysler.emuseum.com/objects/29086/beethoven?ctx=c5370752-82ff-4577-a44f-ad1d8d370880&idx=0"
+        }
+    ],
     "Oil on fabric": [
         {
             "museum": "Cleveland Museum of Art",
             "url": "https://clevelandart.org/art/1958.56"
         }
     ],
-    "Distemper on fabric": [
+    "Oil on paper laid on board": [
         {
             "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/1953.212"
-        }
-    ],
-    "Oil on board, laid on cradled panel": [
-        {
-            "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/1958.57"
-        }
-    ],
-    "Oil on canvas glued to cardboard": [
-        {
-            "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/2020.109"
-        }
-    ],
-    "Oil on masonite panel": [
-        {
-            "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/1967.4"
+            "url": "https://clevelandart.org/art/1971.220"
         }
     ],
     "Oil, egg tempera, and other media on board": [
@@ -1969,10 +1951,28 @@
             "url": "https://clevelandart.org/art/1978.45"
         }
     ],
-    "Oil on paper laid on board": [
+    "Oil on masonite panel": [
         {
             "museum": "Cleveland Museum of Art",
-            "url": "https://clevelandart.org/art/1971.220"
+            "url": "https://clevelandart.org/art/1967.4"
+        }
+    ],
+    "Oil on canvas glued to cardboard": [
+        {
+            "museum": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/2020.109"
+        }
+    ],
+    "Distemper on fabric": [
+        {
+            "museum": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1953.212"
+        }
+    ],
+    "Oil on board, laid on cradled panel": [
+        {
+            "museum": "Cleveland Museum of Art",
+            "url": "https://clevelandart.org/art/1958.57"
         }
     ],
     "Pigments in aqueous medium on burlap": [
@@ -1981,16 +1981,28 @@
             "url": "https://philamuseum.org/collection/object/53868"
         }
     ],
-    "Oil on paper on linen": [
+    "Oil and distemper on paper, mounted on cardboard": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/63330"
+            "url": "https://philamuseum.org/collection/object/59483"
+        }
+    ],
+    "Oil and graphite on paper, mounted on canvas": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/59489"
+        }
+    ],
+    "Tempera on burlap": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/46895"
         }
     ],
     "Oil on paper on canvas": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51095"
+            "url": "https://philamuseum.org/collection/object/59594"
         },
         {
             "museum": "Los Angeles County Museum of Art",
@@ -2001,110 +2013,36 @@
             "url": "https://www.nga.gov/collection/art-object-page.53588.html"
         }
     ],
-    "Oil and gouache on paper": [
+    "Oil on paper on panel": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/60236"
-        }
-    ],
-    "Oil paint, mixed media, and wax on panel": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51709"
-        }
-    ],
-    "Oil on cardboard on Masonite": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/47882"
-        }
-    ],
-    "Tempera on burlap": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/46895"
-        }
-    ],
-    "Oil, graphite, and thread on canvas": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51530"
-        }
-    ],
-    "Oil and lead wire on glass": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51507"
+            "url": "https://philamuseum.org/collection/object/72073"
         }
     ],
     "Oil on cardboard on panel": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51448"
+            "url": "https://philamuseum.org/collection/object/63337"
         },
         {
             "museum": "Los Angeles County Museum of Art",
             "url": "https://collections.lacma.org/node/2109886"
         }
     ],
-    "Oil on cigar-box top": [
+    "Oil on cardboard on canvas": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/102812"
+            "url": "https://philamuseum.org/collection/object/72138"
         }
     ],
-    "Black, white, grey gouache on gesso on Masonite": [
+    "Oil on paper on cardboard": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/245904"
-        }
-    ],
-    "Glue tempera on jute-and-flax fabric": [
+            "url": "https://philamuseum.org/collection/object/59605"
+        },
         {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51037"
-        }
-    ],
-    "Oil on canvas on panel": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51023"
-        }
-    ],
-    "Oil and watercolor on canvas on panel": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51027"
-        }
-    ],
-    "Oil and watercolor on fabric on cardboard": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51033"
-        }
-    ],
-    "Fresco on cement, galvanized steel framework": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/48440"
-        }
-    ],
-    "Gouache (opaque watercolor) on canvas, mounted on panel": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/301913"
-        }
-    ],
-    "Oil on paper on panel": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/59604"
-        }
-    ],
-    "Crayon on canvas": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/51044"
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.130842.html"
         }
     ],
     "Oil, aqueous medium, and graphite on glue-sized canvas": [
@@ -2122,7 +2060,7 @@
     "Oil and aqueous medium on canvas": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/53950"
+            "url": "https://philamuseum.org/collection/object/53953"
         }
     ],
     "Oil and aqueous medium on cardboard": [
@@ -2149,10 +2087,10 @@
             "url": "https://philamuseum.org/collection/object/59574"
         }
     ],
-    "Oil, graphite, and charcoal on canvas": [
+    "Oil, paper, and metal on panel": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/53922"
+            "url": "https://philamuseum.org/collection/object/53939"
         }
     ],
     "Graphite, charcoal, and oil on canvas": [
@@ -2161,34 +2099,34 @@
             "url": "https://philamuseum.org/collection/object/51165"
         }
     ],
-    "Oil on paper, mounted as a six-fold screen": [
+    "Oil on cardboard on Masonite": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/341552"
+            "url": "https://philamuseum.org/collection/object/47882"
         }
     ],
-    "Tempera on fabric": [
+    "Crayon on canvas": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/82484"
+            "url": "https://philamuseum.org/collection/object/51044"
         }
     ],
-    "Oil and distemper on paper, mounted on cardboard": [
+    "Oil paint, mixed media, and wax on panel": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/59483"
+            "url": "https://philamuseum.org/collection/object/51709"
         }
     ],
-    "Oil and graphite on paper, mounted on canvas": [
+    "Oil, graphite, and thread on canvas": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/59489"
+            "url": "https://philamuseum.org/collection/object/51530"
         }
     ],
-    "Oil, paper, and metal on panel": [
+    "Oil and lead wire on glass": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/53939"
+            "url": "https://philamuseum.org/collection/object/51507"
         }
     ],
     "Oil on canvas board, mounted on panel": [
@@ -2197,22 +2135,16 @@
             "url": "https://philamuseum.org/collection/object/53948"
         }
     ],
-    "Oil on unstretched and primed canvas": [
+    "Glue tempera on jute-and-flax fabric": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/306508"
+            "url": "https://philamuseum.org/collection/object/51037"
         }
     ],
-    "Oil on canvas (Irish linen)": [
+    "Oil on canvas on panel": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/49259"
-        }
-    ],
-    "Oil on beaver board": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/50713"
+            "url": "https://philamuseum.org/collection/object/51023"
         }
     ],
     "Oil and metal on panel": [
@@ -2221,30 +2153,16 @@
             "url": "https://philamuseum.org/collection/object/53895"
         }
     ],
-    "Oil and crayon on canvas": [
+    "Oil on paper on linen": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/59579"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.60661.html"
+            "url": "https://philamuseum.org/collection/object/63330"
         }
     ],
-    "Oil on cardboard on canvas": [
+    "Oil and gouache on paper": [
         {
             "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/72138"
-        }
-    ],
-    "Oil on paper on cardboard": [
-        {
-            "museum": "Philadelphia Museum of Art",
-            "url": "https://philamuseum.org/collection/object/59605"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.130842.html"
+            "url": "https://philamuseum.org/collection/object/60236"
         }
     ],
     "Crayon, ink, and graphite on canvas": [
@@ -2259,6 +2177,88 @@
             "url": "https://philamuseum.org/collection/object/63324"
         }
     ],
+    "Oil on paper, mounted as a six-fold screen": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/341552"
+        }
+    ],
+    "Tempera on fabric": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/82484"
+        }
+    ],
+    "Oil on canvas (Irish linen)": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/49259"
+        }
+    ],
+    "Oil, graphite, and charcoal on canvas": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/53922"
+        }
+    ],
+    "Oil and crayon on canvas": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/59579"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.60661.html"
+        }
+    ],
+    "Oil on beaver board": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/50713"
+        }
+    ],
+    "Black, white, grey gouache on gesso on Masonite": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/245904"
+        }
+    ],
+    "Oil on unstretched and primed canvas": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/306508"
+        }
+    ],
+    "Fresco on cement, galvanized steel framework": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/48440"
+        }
+    ],
+    "Gouache (opaque watercolor) on canvas, mounted on panel": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/301913"
+        }
+    ],
+    "Oil on cigar-box top": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/102812"
+        }
+    ],
+    "Oil and watercolor on canvas on panel": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/51027"
+        }
+    ],
+    "Oil and watercolor on fabric on cardboard": [
+        {
+            "museum": "Philadelphia Museum of Art",
+            "url": "https://philamuseum.org/collection/object/51033"
+        }
+    ],
     "Oil, sand, and graphite on sketch board, mounted on cradled wood panel": [
         {
             "museum": "Philadelphia Museum of Art",
@@ -2271,10 +2271,36 @@
             "url": "https://philamuseum.org/collection/object/51093"
         }
     ],
-    "Oil on artist board": [
+    "Oil on canvas mounted on Masonite": [
         {
             "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/65165/"
+            "url": "https://www.slam.org/collection/objects/1247/"
+        },
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/193767"
+        }
+    ],
+    "Oil on canvas (recto), oil on canvas (verso)": [
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/13496/"
+        }
+    ],
+    "Oil with sand on canvas": [
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/36339/"
+        },
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/481998"
+        }
+    ],
+    "Oil on cardboard mounted on panel": [
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/34066/"
         }
     ],
     "Oil on canvas mounted on cardboard": [
@@ -2287,22 +2313,16 @@
             "url": "http://www.moma.org/collection/works/80540"
         }
     ],
+    "Oil on artist board": [
+        {
+            "museum": "Saint Louis Art Museum",
+            "url": "https://www.slam.org/collection/objects/13507/"
+        }
+    ],
     "Oil on board, mounted on canvas": [
         {
             "museum": "Saint Louis Art Museum",
             "url": "https://www.slam.org/collection/objects/874/"
-        }
-    ],
-    "Oil on canvas (recto), oil on canvas (verso)": [
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/13496/"
-        }
-    ],
-    "Oil on canvas with built up relief effects": [
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/1661/"
         }
     ],
     "Oil on canvas on board": [
@@ -2312,33 +2332,13 @@
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/275466"
+            "url": "http://www.moma.org/collection/works/79878"
         }
     ],
-    "Oil with sand on canvas": [
+    "Oil on canvas with built up relief effects": [
         {
             "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/7613/"
-        },
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/484258"
-        }
-    ],
-    "Oil on cardboard mounted on panel": [
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/34066/"
-        }
-    ],
-    "Oil on canvas mounted on Masonite": [
-        {
-            "museum": "Saint Louis Art Museum",
-            "url": "https://www.slam.org/collection/objects/1247/"
-        },
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/193767"
+            "url": "https://www.slam.org/collection/objects/1661/"
         }
     ],
     "Oil on textured artist board": [
@@ -2353,22 +2353,22 @@
             "url": "https://collections.mfa.org/objects/33444/profile-of-a-clown"
         }
     ],
-    "Oil on paperboard mounted on canvas": [
+    "Oil on canvas mounted on paperboard": [
         {
             "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/33321/mixed-flowers-in-an-earthenware-pot"
+            "url": "https://collections.mfa.org/objects/33275/flowers-and-a-bowl-of-fruit-on-a-table"
         }
     ],
-    "Oil on paper mounted on canvas mounted on panel": [
+    "Oil on paperboard mounted on plywood": [
         {
             "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/33341/woman-sewing-before-a-garden-window"
+            "url": "https://collections.mfa.org/objects/33603/the-tempest"
         }
     ],
-    "Oil on paperboard mounted on a cradled wooden panel": [
+    "Charcoal and oil on canvas": [
         {
             "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/33653/still-life-with-sea-shells"
+            "url": "https://collections.mfa.org/objects/680511/dog-chien"
         }
     ],
     "Tempera on paper": [
@@ -2387,24 +2387,6 @@
             "url": "https://collections.mfa.org/objects/33317/poultry-market-at-gisors"
         }
     ],
-    "Charcoal and oil on canvas": [
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/680511/dog-chien"
-        }
-    ],
-    "Oil paint on millboard mounted on panel": [
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/32750/at-the-cafe-la-mie"
-        }
-    ],
-    "Oil on paperboard mounted on plywood": [
-        {
-            "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/33603/the-tempest"
-        }
-    ],
     "Oil on canvas mounted on panel": [
         {
             "museum": "Museum of Fine Arts Boston",
@@ -2415,130 +2397,88 @@
             "url": "http://www.moma.org/collection/works/80280"
         }
     ],
-    "Oil on canvas mounted on paperboard": [
+    "Oil paint on millboard mounted on panel": [
         {
             "museum": "Museum of Fine Arts Boston",
-            "url": "https://collections.mfa.org/objects/33275/flowers-and-a-bowl-of-fruit-on-a-table"
+            "url": "https://collections.mfa.org/objects/32750/at-the-cafe-la-mie"
         }
     ],
-    "Watercolor on thick wove paper": [
+    "Oil on paper mounted on canvas mounted on panel": [
         {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6573"
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/33341/woman-sewing-before-a-garden-window"
         }
     ],
-    "Oil on canvas with newsprint": [
+    "Oil on paperboard mounted on a cradled wooden panel": [
         {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5804"
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/33653/still-life-with-sea-shells"
         }
     ],
-    "Oil on Beaver Board": [
+    "Oil on paperboard mounted on canvas": [
         {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6598"
+            "museum": "Museum of Fine Arts Boston",
+            "url": "https://collections.mfa.org/objects/33321/mixed-flowers-in-an-earthenware-pot"
         }
     ],
-    "Oil on commercial wallboard": [
+    "Pastel and black chalk on laid paper (later mounted to paperboard)": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6599"
-        }
-    ],
-    "Watercolor and charcoal on laid paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6539"
-        }
-    ],
-    "Watercolor with graphite underdrawing on thin wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6308"
-        }
-    ],
-    "Watercolor with crayon on thin wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6305"
-        }
-    ],
-    "Watercolor on wove paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6493"
-        }
-    ],
-    "Watercolor and black crayon with graphite underdrawing on wove paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6522"
-        }
-    ],
-    "Gouache on prepared paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6499"
-        }
-    ],
-    "Watercolor with graphite underdrawing on wove paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6494"
-        }
-    ],
-    "Watercolor on prepared paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6495"
-        }
-    ],
-    "Watercolor on handmade wove paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6518"
-        }
-    ],
-    "Watercolor, brush and ink on paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6492"
-        }
-    ],
-    "Gouache with ink on canvas": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6872"
-        }
-    ],
-    "Watercolor, pen and ink, and black crayon (?) on thin paper; artist-mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6521"
-        }
-    ],
-    "Pastel with charcoal underdrawing on blue (?) wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5226"
+            "url": "https://collection.barnesfoundation.org/objects/5645"
         }
     ],
     "Oil on canvas (later mounted to fiberboard)": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5838"
+            "url": "https://collection.barnesfoundation.org/objects/5646"
         }
     ],
-    "Oil on canvas (later mounted to hardboard)": [
+    "Oil on canvas (later mounted to plywood)": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6272"
+            "url": "https://collection.barnesfoundation.org/objects/5212"
         }
     ],
-    "Oil on canvas panel": [
+    "Oil in canvas": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5450"
+            "url": "https://collection.barnesfoundation.org/objects/5185"
+        }
+    ],
+    "Oil on canvas (later mounted to cradled panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5787"
+        }
+    ],
+    "Watercolor and graphite on wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7039"
+        }
+    ],
+    "Oil on canvas (later mounted to panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5072"
+        }
+    ],
+    "Watercolor and graphite on laid paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7353"
+        }
+    ],
+    "Oil on canvas (mounted to panel and later to plywood panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/4735"
+        }
+    ],
+    "Oil on primed paper (later mounted to canvas)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7006"
         }
     ],
     "Oil on paperboard (later mounted to cradled panel)": [
@@ -2583,70 +2523,10 @@
             "url": "https://collection.barnesfoundation.org/objects/6967"
         }
     ],
-    "Oil on tan paper mounted to cradled panel": [
+    "Watercolor on thick wove paper": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5019"
-        }
-    ],
-    "Pastel and black chalk on laid paper (later mounted to paperboard)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5645"
-        }
-    ],
-    "Oil on canvas (later mounted to plywood)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5212"
-        }
-    ],
-    "Oil in canvas": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5185"
-        }
-    ],
-    "Oil on canvas (later mounted to cradled panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5787"
-        }
-    ],
-    "Oil on paperboard (later mounted to plywood panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5431"
-        }
-    ],
-    "Oil on cardboard (later mounted to panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5436"
-        }
-    ],
-    "Oil on hardboard mounted to plywood panel [later mounted to cradled panel]": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7529"
-        }
-    ],
-    "Reverse painting on glass": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5084"
-        }
-    ],
-    "Oil on cardboard (later mounted to cradled panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6869"
-        }
-    ],
-    "Oil on paper or paperboard lined to canvas": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5663"
+            "url": "https://collection.barnesfoundation.org/objects/6573"
         }
     ],
     "Watercolor, brush and ink, and graphite on blue laid paper": [
@@ -2655,10 +2535,10 @@
             "url": "https://collection.barnesfoundation.org/objects/6564"
         }
     ],
-    "Watercolor, ink, and pastel on heavy wove paper": [
+    "Graphite and watercolor on wove paper": [
         {
             "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5231"
+            "url": "https://collection.barnesfoundation.org/objects/6632"
         }
     ],
     "Oil on plywood": [
@@ -2672,109 +2552,7 @@
         },
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80496"
-        }
-    ],
-    "Graphite and watercolor on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6632"
-        }
-    ],
-    "Watercolor and graphite on handmade wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6508"
-        }
-    ],
-    "Watercolor and graphite on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7079"
-        }
-    ],
-    "Gouache, watercolor, and graphite on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5144"
-        }
-    ],
-    "Watercolor and gouache with charcoal or graphite underdrawing on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5128"
-        }
-    ],
-    "Watercolor on thick paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6516"
-        }
-    ],
-    "Oil on canvas (mounted on primed canvas)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5540"
-        }
-    ],
-    "Oil and oleoresinous (est.) paint on canvas": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5132"
-        }
-    ],
-    "Oil on canvas (later mounted to panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5072"
-        }
-    ],
-    "Watercolor and graphite on laid paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7353"
-        }
-    ],
-    "Oil on canvas (mounted to panel and later to plywood panel)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/4735"
-        }
-    ],
-    "Oil on primed paper (later mounted to canvas)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7006"
-        }
-    ],
-    "Watercolor, brush and ink, crayon, gold metallic paint, and pen and ink on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/6538"
-        }
-    ],
-    "Crayon (black and colored) and gouache on tan, wove paper mounted to Japanese paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5548"
-        }
-    ],
-    "Oil on paper mounted to fabric (later mounted to composition board)": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/5010"
-        }
-    ],
-    "Watercolor, colored crayon (?), with graphite underdrawing on wove paper": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7018"
-        }
-    ],
-    "Watercolor and gouache on wove paper mounted to paperboard": [
-        {
-            "museum": "The Barnes Foundation",
-            "url": "https://collection.barnesfoundation.org/objects/7092"
+            "url": "http://www.moma.org/collection/works/80424"
         }
     ],
     "Watercolor, gouache, graphite, and brown ink on thin paperboard": [
@@ -2969,40 +2747,268 @@
             "url": "https://collection.barnesfoundation.org/objects/7089"
         }
     ],
+    "Oil on cardboard (later mounted to cradled panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6869"
+        }
+    ],
+    "Oil on paper or paperboard lined to canvas": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5663"
+        }
+    ],
+    "Reverse painting on glass": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5084"
+        }
+    ],
+    "Watercolor on wove paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6493"
+        }
+    ],
+    "Watercolor and black crayon with graphite underdrawing on wove paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6522"
+        }
+    ],
+    "Gouache on prepared paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6499"
+        }
+    ],
+    "Watercolor with graphite underdrawing on wove paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6494"
+        }
+    ],
+    "Watercolor on prepared paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6495"
+        }
+    ],
+    "Watercolor on handmade wove paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6518"
+        }
+    ],
+    "Watercolor, brush and ink on paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6492"
+        }
+    ],
+    "Gouache with ink on canvas": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6872"
+        }
+    ],
+    "Watercolor, pen and ink, and black crayon (?) on thin paper; artist-mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6521"
+        }
+    ],
+    "Pastel with charcoal underdrawing on blue (?) wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5226"
+        }
+    ],
+    "Oil on canvas (later mounted to hardboard)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6272"
+        }
+    ],
+    "Oil on canvas panel": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5450"
+        }
+    ],
+    "Oil on paperboard (later mounted to plywood panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5431"
+        }
+    ],
+    "Oil on cardboard (later mounted to panel)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5436"
+        }
+    ],
+    "Oil on hardboard mounted to plywood panel [later mounted to cradled panel]": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7529"
+        }
+    ],
+    "Oil on canvas with newsprint": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5804"
+        }
+    ],
+    "Watercolor and graphite on handmade wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6508"
+        }
+    ],
+    "Gouache, watercolor, and graphite on wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5144"
+        }
+    ],
+    "Watercolor and gouache with charcoal or graphite underdrawing on wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5128"
+        }
+    ],
+    "Watercolor on thick paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6516"
+        }
+    ],
+    "Oil on canvas (mounted on primed canvas)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5540"
+        }
+    ],
+    "Oil and oleoresinous (est.) paint on canvas": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5132"
+        }
+    ],
+    "Watercolor, brush and ink, crayon, gold metallic paint, and pen and ink on wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6538"
+        }
+    ],
+    "Crayon (black and colored) and gouache on tan, wove paper mounted to Japanese paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5548"
+        }
+    ],
+    "Oil on paper mounted to fabric (later mounted to composition board)": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5010"
+        }
+    ],
+    "Watercolor, colored crayon (?), with graphite underdrawing on wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7018"
+        }
+    ],
+    "Watercolor and gouache on wove paper mounted to paperboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/7092"
+        }
+    ],
+    "Watercolor, ink, and pastel on heavy wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5231"
+        }
+    ],
+    "Oil on Beaver Board": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6598"
+        }
+    ],
+    "Oil on commercial wallboard": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6599"
+        }
+    ],
+    "Oil on tan paper mounted to cradled panel": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/5019"
+        }
+    ],
+    "Watercolor and charcoal on laid paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6539"
+        }
+    ],
+    "Watercolor with graphite underdrawing on thin wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6308"
+        }
+    ],
+    "Watercolor with crayon on thin wove paper": [
+        {
+            "museum": "The Barnes Foundation",
+            "url": "https://collection.barnesfoundation.org/objects/6305"
+        }
+    ],
     "Watercolor On Graphite On Paper": [
         {
             "museum": "Fine Arts Museums of San Francisco",
             "url": "https://art.famsf.org/berthe-marie-pauline-morisot/field-haystacks-mules-2019811"
         }
     ],
+    "Oil On Panel": [
+        {
+            "museum": "Fine Arts Museums of San Francisco",
+            "url": "https://art.famsf.org/georges-seurat/eiffel-tower-197948"
+        }
+    ],
+    "Oil On Canvas Mounted On Hardboard": [
+        {
+            "museum": "Fine Arts Museums of San Francisco",
+            "url": "https://art.famsf.org/albert-bloch/nacht-i-night-i-2001124"
+        }
+    ],
+    "Oil On Paper Board": [
+        {
+            "museum": "Fine Arts Museums of San Francisco",
+            "url": "https://art.famsf.org/%C3%A9douard-vuillard/interior-mother-and-child-197538"
+        }
+    ],
     "Oil On Canvas": [
         {
             "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/marie-laurencin/head-woman-19995619"
+            "url": "https://art.famsf.org/giovanni-boldini/misses-muriel-and-consuelo-vanderbilt-67312"
+        }
+    ],
+    "Oil On Hardboard": [
+        {
+            "museum": "Fine Arts Museums of San Francisco",
+            "url": "https://art.famsf.org/amedeo-modigliani/pierre-edouard-baranowski-1981237"
         }
     ],
     "Watercolor On Ivory, Leather Case": [
         {
             "museum": "Fine Arts Museums of San Francisco",
             "url": "https://art.famsf.org/louise-c-breslau/adolph-b-spreckels-1951433"
-        }
-    ],
-    "Oil On Canvas Mounted On Hardboard": [
-        {
-            "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/florine-stettheimer/still-life-flowers-195524"
-        }
-    ],
-    "Gouache, Watercolor, Pen And India Ink On Paper Laid Down At The Edges On Masonite": [
-        {
-            "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/andr%C3%A9-dunoyer-de-segonzac/nature-morte-201379"
-        }
-    ],
-    "Oil On Panel": [
-        {
-            "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/giorgio-de-chirico/le-guerrier-figure-i-hector-and-andromeda-20065711"
         }
     ],
     "Glue-based Distemper On Paper, Mounted On Canvas": [
@@ -3017,16 +3023,10 @@
             "url": "https://art.famsf.org/%C3%A9douard-vuillard/madame-hessel-reclining-sofa-198663"
         }
     ],
-    "Oil On Paper Board": [
+    "Gouache, Watercolor, Pen And India Ink On Paper Laid Down At The Edges On Masonite": [
         {
             "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/%C3%A9douard-vuillard/interior-mother-and-child-197538"
-        }
-    ],
-    "Acrylic On Board": [
-        {
-            "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/carl-r-holty/gray-volume-20053535"
+            "url": "https://art.famsf.org/andr%C3%A9-dunoyer-de-segonzac/nature-morte-201379"
         }
     ],
     "Oil On Canvas On Masonite": [
@@ -3035,52 +3035,10 @@
             "url": "https://art.famsf.org/camille-pissarro/red-roofs-198511"
         }
     ],
-    "Oil On Hardboard": [
+    "Acrylic On Board": [
         {
             "museum": "Fine Arts Museums of San Francisco",
-            "url": "https://art.famsf.org/th%C3%A9o-van-rysselberghe/garden-generalife-granada-19691"
-        }
-    ],
-    "Tempera on board": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/205915"
-        }
-    ],
-    "Pastel on paper on canvas": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/2109658"
-        }
-    ],
-    "Oil on linoleum": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/234647"
-        }
-    ],
-    "Oil and wood": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/2109619"
-        }
-    ],
-    "Oil on asbestos cement shingle": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/193884"
-        }
-    ],
-    "Pastel on paper mounted on backing board or paper": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/233605"
-        }
-    ],
-    "Oil and graphite on cardboard": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/228330"
+            "url": "https://art.famsf.org/carl-r-holty/gray-volume-20053535"
         }
     ],
     "Oil on jute": [
@@ -3095,22 +3053,58 @@
             "url": "https://collections.lacma.org/node/239594"
         }
     ],
-    "Oil and incisions on rhodoid": [
-        {
-            "museum": "Los Angeles County Museum of Art",
-            "url": "https://collections.lacma.org/node/183291"
-        }
-    ],
     "Oil on board mounted on canvas": [
         {
             "museum": "Los Angeles County Museum of Art",
             "url": "https://collections.lacma.org/node/174307"
         }
     ],
-    "Oil, glass, and wood on board": [
+    "Oil on linoleum": [
         {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/197510r-verschobene-fl%C3%A4chen-shifted-planes"
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/234647"
+        }
+    ],
+    "Pastel on paper mounted on backing board or paper": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/233605"
+        }
+    ],
+    "Oil and graphite on cardboard": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/228330"
+        }
+    ],
+    "Oil on asbestos cement shingle": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/193884"
+        }
+    ],
+    "Tempera on board": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/205915"
+        }
+    ],
+    "Oil and incisions on rhodoid": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/183291"
+        }
+    ],
+    "Oil and wood": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/2109619"
+        }
+    ],
+    "Pastel on paper on canvas": [
+        {
+            "museum": "Los Angeles County Museum of Art",
+            "url": "https://collections.lacma.org/node/2109658"
         }
     ],
     "Oil on canvas mounted on thick paper board": [
@@ -3119,28 +3113,10 @@
             "url": "https://www.albrightknox.org/artworks/19563-variation-no-10"
         }
     ],
-    "Watercolor on paper": [
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/rca19421-race-deauville"
-        }
-    ],
-    "Tempera, oil, and sand on canvas": [
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/rca194417-dans-la-for%C3%AAt-forest"
-        }
-    ],
     "Gouache and watercolor on paper": [
         {
             "museum": "Albright–Knox Art Gallery",
             "url": "https://www.albrightknox.org/artworks/rca19418-fairy-animal"
-        }
-    ],
-    "Oil on jute mounted on canvas": [
-        {
-            "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19651-mana%C3%B2-tupapa%C3%BA-spirit-dead-watching"
         }
     ],
     "Oil on brown paper mounted on canvas": [
@@ -3149,10 +3125,10 @@
             "url": "https://www.albrightknox.org/artworks/rca194125-lacrobate-acrobat"
         }
     ],
-    "Gouache on cardboard mounted on wood": [
+    "Watercolor on paper": [
         {
             "museum": "Albright–Knox Art Gallery",
-            "url": "https://www.albrightknox.org/artworks/19674-no-title"
+            "url": "https://www.albrightknox.org/artworks/rca19403h-nude-woman"
         }
     ],
     "Oil on paper mounted on wood panel": [
@@ -3161,10 +3137,28 @@
             "url": "https://www.albrightknox.org/artworks/19529-monsieur-x"
         }
     ],
+    "Gouache on cardboard mounted on wood": [
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/19674-no-title"
+        }
+    ],
     "Oil and watercolor on paper, mounted on board": [
         {
             "museum": "Albright–Knox Art Gallery",
             "url": "https://www.albrightknox.org/artworks/rca194012-wehgeweihtes-kind-child-consecrated-suffering"
+        }
+    ],
+    "Oil on jute mounted on canvas": [
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/19651-mana%C3%B2-tupapa%C3%BA-spirit-dead-watching"
+        }
+    ],
+    "Oil, glass, and wood on board": [
+        {
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/197510r-verschobene-fl%C3%A4chen-shifted-planes"
         }
     ],
     "Watercolor and collage": [
@@ -3173,10 +3167,10 @@
             "url": "https://www.albrightknox.org/artworks/196697-still-life"
         }
     ],
-    "Oil on canvas (lined)": [
+    "Tempera, oil, and sand on canvas": [
         {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/461643"
+            "museum": "Albright–Knox Art Gallery",
+            "url": "https://www.albrightknox.org/artworks/rca194417-dans-la-for%C3%AAt-forest"
         }
     ],
     "Oil and spray enamel on canvas": [
@@ -3185,118 +3179,40 @@
             "url": "http://www.metmuseum.org/art/collection/search/489321"
         }
     ],
+    "Oil on canvas (lined)": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/461643"
+        }
+    ],
+    "Oil mixed with sand on canvas": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/486270"
+        }
+    ],
+    "Oil with sand and charcoal on canvas": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/489968"
+        }
+    ],
+    "Oil and charcoal with sand on canvas": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490039"
+        }
+    ],
+    "Charcoal and cut-and-pasted newspaper and printed wallpaper on gessoed paperboard (commercial board from mirror backing)": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/500399"
+        }
+    ],
     "Oil and graphite on paper": [
         {
             "museum": "The Metropolitan Museum of Art",
             "url": "http://www.metmuseum.org/art/collection/search/789383"
-        }
-    ],
-    "Oil on paper, mounted on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/489642"
-        }
-    ],
-    "Oil on cardboard, mounted on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490751"
-        }
-    ],
-    "Oil on Canvas": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/460420"
-        }
-    ],
-    "Oil on board with painted frame": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/493694"
-        }
-    ],
-    "Oil on canvas with string and collage": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/492702"
-        }
-    ],
-    "Oil on wood, mounted on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/437657"
-        }
-    ],
-    "Mixed media on canvas": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/436139"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.46705.html"
-        }
-    ],
-    "Oil colors freely mixed with turpentine on canvas": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/782304"
-        }
-    ],
-    "Oil, gouache, and ink on paper on tan wove paper; subsequently mounted to Masonite": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/500431"
-        }
-    ],
-    "Oil on cardboard mounted on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/484717"
-        },
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80026"
-        }
-    ],
-    "Oil and cut-and-pasted printed paper on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490036"
-        }
-    ],
-    "Oil on paper mounted on cardboard": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/485840"
-        }
-    ],
-    "Oil on paper mounted on paperboard": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/481487"
-        }
-    ],
-    "Oil and ink on wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490005"
-        }
-    ],
-    "Gouache on canvas": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490008"
-        },
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.61372.html"
-        }
-    ],
-    "Oil on unprimed wood": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/437834"
         }
     ],
     "Oil on cardboard, mounted on cradled wood": [
@@ -3323,34 +3239,32 @@
             "url": "http://www.metmuseum.org/art/collection/search/488259"
         }
     ],
+    "Oil on cardboard, mounted on wood": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/489556"
+        }
+    ],
     "Oil on cardboard mounted on canvas": [
         {
             "museum": "The Metropolitan Museum of Art",
             "url": "http://www.metmuseum.org/art/collection/search/490147"
         }
     ],
-    "Oil on commercially prepared paperboard (academy board)": [
+    "Mixed media on canvas": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/486010"
+            "url": "http://www.metmuseum.org/art/collection/search/436139"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.46705.html"
         }
     ],
-    "Oil on hardboard (masonite)": [
+    "Oil colors freely mixed with turpentine on canvas": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/488036"
-        }
-    ],
-    "Oil on commercially prepared paperboard (academy board), mounted to slatted wood board": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/488485"
-        }
-    ],
-    "Oil and charcoal on paperboard": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/488487"
+            "url": "http://www.metmuseum.org/art/collection/search/782304"
         }
     ],
     "Oil, sand, and paper on canvas": [
@@ -3389,22 +3303,10 @@
             "url": "http://www.metmuseum.org/art/collection/search/490014"
         }
     ],
-    "Oil on machine-primed canvas": [
+    "Oil on unprimed wood": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/459359"
-        }
-    ],
-    "Encaustic and ink on Masonite": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/489970"
-        }
-    ],
-    "Oil on plexiglas, wood frame": [
-        {
-            "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/484526"
+            "url": "http://www.metmuseum.org/art/collection/search/437834"
         }
     ],
     "Oil and ink on cardboard": [
@@ -3455,6 +3357,88 @@
             "url": "http://www.metmuseum.org/art/collection/search/489986"
         }
     ],
+    "Oil on paper mounted on paperboard": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/481487"
+        }
+    ],
+    "Oil on paper mounted on cardboard": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/485840"
+        }
+    ],
+    "Oil, gouache, and ink on paper on tan wove paper; subsequently mounted to Masonite": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/500431"
+        }
+    ],
+    "Oil on wood relief": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490175"
+        }
+    ],
+    "Oil on commercially prepared paperboard (academy board)": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/486010"
+        }
+    ],
+    "Oil on hardboard (masonite)": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/488036"
+        }
+    ],
+    "Oil on commercially prepared paperboard (academy board), mounted to slatted wood board": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/488485"
+        }
+    ],
+    "Oil and charcoal on paperboard": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/488487"
+        }
+    ],
+    "Oil on board with painted frame": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/493694"
+        }
+    ],
+    "Oil and ink on wood": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490005"
+        }
+    ],
+    "Gouache on canvas": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490008"
+        },
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.61372.html"
+        }
+    ],
+    "Oil on paper, mounted on wood": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/489642"
+        }
+    ],
+    "Oil on machine-primed canvas": [
+        {
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/459359"
+        }
+    ],
     "Oil on paperboard on wood": [
         {
             "museum": "The Metropolitan Museum of Art",
@@ -3467,46 +3451,50 @@
             "url": "http://www.metmuseum.org/art/collection/search/459164"
         }
     ],
-    "Oil mixed with sand on canvas": [
+    "Oil on wood, mounted on wood": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/486270"
+            "url": "http://www.metmuseum.org/art/collection/search/437657"
         }
     ],
-    "Oil with sand and charcoal on canvas": [
+    "Encaustic and ink on Masonite": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/489968"
+            "url": "http://www.metmuseum.org/art/collection/search/489970"
         }
     ],
-    "Oil and charcoal with sand on canvas": [
+    "Oil on plexiglas, wood frame": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490039"
+            "url": "http://www.metmuseum.org/art/collection/search/484526"
         }
     ],
-    "Charcoal and cut-and-pasted newspaper and printed wallpaper on gessoed paperboard (commercial board from mirror backing)": [
+    "Oil on cardboard mounted on wood": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/500399"
+            "url": "http://www.metmuseum.org/art/collection/search/484717"
+        },
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80026"
         }
     ],
-    "Oil on wood relief": [
+    "Oil on Canvas": [
         {
             "museum": "The Metropolitan Museum of Art",
-            "url": "http://www.metmuseum.org/art/collection/search/490175"
+            "url": "http://www.metmuseum.org/art/collection/search/460420"
         }
     ],
-    "Graphite, chalk, and tempera, on panel": [
+    "Oil on canvas with string and collage": [
         {
-            "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7CObject+%7CMaker+in+(Term+%3d+%27Mir%C3%B3%27)&d=d"
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/492702"
         }
     ],
-    "Essence on board": [
+    "Oil and cut-and-pasted printed paper on wood": [
         {
-            "museum": "Wadsworth Atheneum Museum of Art",
-            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Toulouse-Lautrec%27)&d=d"
+            "museum": "The Metropolitan Museum of Art",
+            "url": "http://www.metmuseum.org/art/collection/search/490036"
         }
     ],
     "Oil on Masonite-type hardboard": [
@@ -3516,6 +3504,12 @@
         }
     ],
     "Distemper and pastel on linen": [
+        {
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27vuillard%27)&d=d"
+        }
+    ],
+    "Essence on board": [
         {
             "museum": "Wadsworth Atheneum Museum of Art",
             "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27vuillard%27)&d=d"
@@ -3533,40 +3527,16 @@
             "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7cObject+%7cMaker+in+(Term+%3d+%27Gauguin%27)&d=d"
         }
     ],
-    "Glue on canvas": [
+    "Graphite, chalk, and tempera, on panel": [
         {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.66440.html"
-        }
-    ],
-    "Five-panel screen, distemper on paper laid down on canvas": [
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.106394.html"
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "url": "https://5058.sydneyplus.com/argus/final/Portal/Public.aspx?lang=en-US&p_AAEE=tab2&g_AAEP=final+%7CObject+%7CMaker+in+(Term+%3d+%27Mir%C3%B3%27)&d=d"
         }
     ],
     "Oil on cardboard on wood": [
         {
             "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.46545.html"
-        }
-    ],
-    "Glue on paper on canvas": [
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.66441.html"
-        }
-    ],
-    "Oil on canvas on particle board": [
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.195513.html"
-        }
-    ],
-    "Oil on canvas on wood": [
-        {
-            "museum": "National Gallery of Art",
-            "url": "https://www.nga.gov/collection/art-object-page.61371.html"
+            "url": "https://www.nga.gov/collection/art-object-page.52230.html"
         }
     ],
     "Oil on cement": [
@@ -3599,6 +3569,30 @@
             "url": "https://www.nga.gov/collection/art-object-page.52397.html"
         }
     ],
+    "Glue on canvas": [
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.66440.html"
+        }
+    ],
+    "Five-panel screen, distemper on paper laid down on canvas": [
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.106394.html"
+        }
+    ],
+    "Glue on paper on canvas": [
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.66441.html"
+        }
+    ],
+    "Oil on canvas on particle board": [
+        {
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.195513.html"
+        }
+    ],
     "Gouache on paper, cut and pasted on white paper, mounted on canvas": [
         {
             "museum": "National Gallery of Art",
@@ -3623,46 +3617,10 @@
             "url": "https://www.nga.gov/collection/art-object-page.157928.html"
         }
     ],
-    "Watercolor on paper board": [
+    "Oil on canvas on wood": [
         {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/46705/interior-study-for-the-three-women?ctx=8ee7822b1db69b65ca3f5555a1cb372b839c0156&idx=0"
-        }
-    ],
-    "Oil on tapestry": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/47438/loiseau-senfruit-ebloui-par-la-robe-etincelante?ctx=153926bb552f61b203961d5cdac7dc41abc1351a&idx=22"
-        }
-    ],
-    "Oil on canvas, mounted on wood": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/43496/the-admirer?ctx=5cdfa08c10e3609a25e85ac658c78b4ade4050a2&idx=1"
-        }
-    ],
-    "Gouache and watercolor on linen": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/4242/arearea-joyfulness-ii?ctx=70eb2c78df810629d1e86cc0e299f15b70cb2bc5&idx=2"
-        }
-    ],
-    "Watercolor, ink and graphite on wove paper": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/75706/ion-cintas?ctx=1889e64baa8bbd2064a23d7e97aaf4035fecaa67&idx=0"
-        }
-    ],
-    "Oil on paperboard, mounted on panel": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/5327/abstraction?ctx=4c73c8423f7053763acdeccf1947884772053190&idx=1"
-        }
-    ],
-    "Oil on paper mounted on board": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/47436/view-of-collioure?ctx=1167b8a947900ca876b99a63786e99c09fee4e49&idx=8"
+            "museum": "National Gallery of Art",
+            "url": "https://www.nga.gov/collection/art-object-page.61371.html"
         }
     ],
     "Tempera on cardboard": [
@@ -3677,292 +3635,64 @@
             "url": "https://emuseum.mfah.org/objects/44680/yendo-a-la-luna-de-miel?ctx=a7844d214810bf55a8f0e045c9dc0361c7ff122f&idx=0"
         }
     ],
-    "Painted wood relief": [
-        {
-            "museum": "Museum of Fine Arts Houston",
-            "url": "https://emuseum.mfah.org/objects/15365/yellow-constellation?ctx=ce9ec9699fe7de8329b21417b1b722f8803cd5d1&idx=13"
-        }
-    ],
     "Wood, paint, industrial trash, cardboard, scrap metal, leather, and fabric on wood": [
         {
             "museum": "Museum of Fine Arts Houston",
             "url": "https://emuseum.mfah.org/objects/86306/juanito-va-a-la-ciudad?ctx=c849d7befdb9c5588a2ba06cf70f0ee0fa2fd974&idx=8"
         }
     ],
-    "Oil, enamel, cut-and-pasted papers, ink, and pencil on canvas": [
+    "Oil on canvas, mounted on wood": [
         {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/94503"
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/43496/the-admirer?ctx=5cdfa08c10e3609a25e85ac658c78b4ade4050a2&idx=1"
         }
     ],
-    "Oil and inlaid mother of pearl on board": [
+    "Painted wood relief": [
         {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/291307"
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/15365/yellow-constellation?ctx=ce9ec9699fe7de8329b21417b1b722f8803cd5d1&idx=13"
+        }
+    ],
+    "Oil on paper mounted on board": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/47436/view-of-collioure?ctx=1167b8a947900ca876b99a63786e99c09fee4e49&idx=8"
+        }
+    ],
+    "Oil on tapestry": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/47438/loiseau-senfruit-ebloui-par-la-robe-etincelante?ctx=153926bb552f61b203961d5cdac7dc41abc1351a&idx=22"
+        }
+    ],
+    "Watercolor, ink and graphite on wove paper": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/75706/ion-cintas?ctx=1889e64baa8bbd2064a23d7e97aaf4035fecaa67&idx=0"
+        }
+    ],
+    "Gouache and watercolor on linen": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/4242/arearea-joyfulness-ii?ctx=70eb2c78df810629d1e86cc0e299f15b70cb2bc5&idx=2"
+        }
+    ],
+    "Watercolor on paper board": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/46705/interior-study-for-the-three-women?ctx=8ee7822b1db69b65ca3f5555a1cb372b839c0156&idx=0"
+        }
+    ],
+    "Oil on paperboard, mounted on panel": [
+        {
+            "museum": "Museum of Fine Arts Houston",
+            "url": "https://emuseum.mfah.org/objects/5327/abstraction?ctx=4c73c8423f7053763acdeccf1947884772053190&idx=1"
         }
     ],
     "Oil and wax on canvas": [
         {
             "museum": "The Museum of Modern Art",
             "url": "http://www.moma.org/collection/works/79091"
-        }
-    ],
-    "Oil on canvas with rope": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80516"
-        }
-    ],
-    "Synthetic polymer paint on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78605"
-        }
-    ],
-    "Acrylic on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79961"
-        }
-    ],
-    "Oil over traces of black chalk on tan cardstock mounted on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79173"
-        }
-    ],
-    "Oil on tan wove paper mounted on tan board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79175"
-        }
-    ],
-    "Oil on wood panel with wood cradle at top and bottom": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79176"
-        }
-    ],
-    "Oil over traces of graphite on light-brown wove paper mounted on board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79179"
-        }
-    ],
-    "Oil on canvas mounted on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79180"
-        }
-    ],
-    "Oil on unglazed tile": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79188"
-        }
-    ],
-    "Oil over charcoal on gray board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79197"
-        }
-    ],
-    "Oil on cream wove cardstock mounted on board mounted on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79214"
-        }
-    ],
-    "Oil over black chalk on tan cardstock mounted on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79219"
-        }
-    ],
-    "Oil over black chalk on gray cardstock mounted on tan board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79224"
-        }
-    ],
-    "Oil with incising on board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79235"
-        }
-    ],
-    "Gesso, oil, varnish, crayon, colored papers, sandpaper, graph paper, cardboard, metallic paint, and metal foil on plywood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79040"
-        }
-    ],
-    "Oil and tempera on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80502"
-        }
-    ],
-    "Oil and cord on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78687"
-        }
-    ],
-    "Oil, charcoal and pinned paper on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/36613"
-        }
-    ],
-    "Tempera on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78802"
-        }
-    ],
-    "Enamel on tile": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79357"
-        }
-    ],
-    "Oil, sand, and charcoal on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79646"
-        }
-    ],
-    "Oil, cut-and-pasted newspaper, charcoal, and pencil on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80162"
-        }
-    ],
-    "Oil, gouache, cut-and-pasted paper, gesso, sand, and charcoal on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80436"
-        }
-    ],
-    "Oil on canvas, with painted wood frame": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79333"
-        }
-    ],
-    "Encaustic on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78492"
-        }
-    ],
-    "Fresco on reinforced cement in galvanized-steel framework": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80682"
-        }
-    ],
-    "Oil on canvas with sequins": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79419"
-        }
-    ],
-    "Silk with appliqué of silk satin, shantung, and velvet, lined": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79020"
-        }
-    ],
-    "Gouache on paper, cut and pasted, and charcoal on paper mounted on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79187"
-        }
-    ],
-    "Gouache on paper, cut and pasted, on painted paper": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79462"
-        }
-    ],
-    "Oil, pencil, and charcoal on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79495"
-        }
-    ],
-    "Crepe with crepe appliqué, lined and embroidered": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79559"
-        }
-    ],
-    "Oil and pencil on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80294"
-        }
-    ],
-    "Painted wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79701"
-        }
-    ],
-    "Glue tempera on cardboard mounted on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/91774"
-        }
-    ],
-    "Oil on gypsum": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80536"
-        }
-    ],
-    "Oil and bitumen on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78848"
-        }
-    ],
-    "Tallow on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80015"
-        }
-    ],
-    "Etched and colored plaster with intaglio": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79828"
-        }
-    ],
-    "Oil, silver, gold-bronze paint, and pencil on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79721"
-        }
-    ],
-    "Oil and gouache on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80497"
-        }
-    ],
-    "Oil and enamel on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80464"
-        }
-    ],
-    "Oil on canvas, three panels": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80220"
         }
     ],
     "Oil and collage on cardboard over wood with painted plaster border": [
@@ -4013,112 +3743,22 @@
             "url": "http://www.moma.org/collection/works/80021"
         }
     ],
-    "Oil on canvas with collage of printed paper, postage stamp, and thermometer": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80380"
-        }
-    ],
-    "Tempera, pastel and sand on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78728"
-        }
-    ],
-    "Sand, gesso, oil, pencil, and charcoal on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79309"
-        }
-    ],
-    "Tempera and sand on canvasboard": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79561"
-        }
-    ],
-    "Wood, rattan ring, paper, iron, and steel nails on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80532"
-        }
-    ],
-    "Oil on cardboard mounted on board": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80231"
-        }
-    ],
-    "Oil over bronze paint on plywood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78726"
-        }
-    ],
-    "Cut-and-pasted papers, gouache, and crayon on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80423"
-        }
-    ],
-    "Oil, gold, and platinum on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79792"
-        }
-    ],
     "Encaustic on wood": [
         {
             "museum": "The Museum of Modern Art",
             "url": "http://www.moma.org/collection/works/78583"
         }
     ],
-    "Oil on plaster on burlap": [
+    "Oil and enamel paint on cardboard": [
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78730"
+            "url": "http://www.moma.org/collection/works/38561"
         }
     ],
-    "Oil with painted wood elements and cut-and-pasted printed paper on wood with wood frame": [
+    "Oil on canvas with collage of printed paper, postage stamp, and thermometer": [
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79293"
-        }
-    ],
-    "Oil on cardboard mounted on wood, with coil of rope": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/33621"
-        }
-    ],
-    "Oil on canvas with wood frame": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79153"
-        }
-    ],
-    "Oil and pencil on wood": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79846"
-        }
-    ],
-    "Oil and pasted paper on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80389"
-        }
-    ],
-    "Pencil, crayon, and oil on canvas": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/80604"
-        }
-    ],
-    "Oil and pencil on cardboard": [
-        {
-            "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/79812"
+            "url": "http://www.moma.org/collection/works/80380"
         }
     ],
     "Porcelain enamel on steel": [
@@ -4139,10 +3779,238 @@
             "url": "http://www.moma.org/collection/works/79917"
         }
     ],
+    "Oil, gold, and platinum on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79792"
+        }
+    ],
+    "Oil on plaster on burlap": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78730"
+        }
+    ],
+    "Oil with painted wood elements and cut-and-pasted printed paper on wood with wood frame": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79293"
+        }
+    ],
+    "Oil, charcoal and pinned paper on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/36613"
+        }
+    ],
+    "Tempera on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78802"
+        }
+    ],
+    "Oil, sand, and charcoal on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79646"
+        }
+    ],
+    "Oil, cut-and-pasted newspaper, charcoal, and pencil on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80162"
+        }
+    ],
+    "Oil, gouache, cut-and-pasted paper, gesso, sand, and charcoal on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80436"
+        }
+    ],
+    "Oil over traces of black chalk on tan cardstock mounted on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79173"
+        }
+    ],
+    "Oil on tan wove paper mounted on tan board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79175"
+        }
+    ],
+    "Oil on wood panel with wood cradle at top and bottom": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79176"
+        }
+    ],
+    "Oil over traces of graphite on light-brown wove paper mounted on board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79179"
+        }
+    ],
+    "Oil with incising on board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79235"
+        }
+    ],
+    "Tallow on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80015"
+        }
+    ],
+    "Encaustic on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80649"
+        }
+    ],
+    "Oil on canvas, with painted wood frame": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79333"
+        }
+    ],
+    "Oil on canvas, three panels": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80220"
+        }
+    ],
+    "Oil and enamel on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80464"
+        }
+    ],
     "Oil and tempera on plywood": [
         {
             "museum": "The Museum of Modern Art",
             "url": "http://www.moma.org/collection/works/80462"
+        }
+    ],
+    "Oil on canvas with sequins": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79419"
+        }
+    ],
+    "Tempera, pastel and sand on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78728"
+        }
+    ],
+    "Sand, gesso, oil, pencil, and charcoal on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79309"
+        }
+    ],
+    "Tempera and sand on canvasboard": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79561"
+        }
+    ],
+    "Oil on cardboard mounted on wood, with coil of rope": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/33621"
+        }
+    ],
+    "Oil and pasted paper on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80389"
+        }
+    ],
+    "Cut-and-pasted papers, gouache, and crayon on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80423"
+        }
+    ],
+    "Oil and pencil on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79600"
+        }
+    ],
+    "Oil on cardboard mounted on board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80231"
+        }
+    ],
+    "Gesso, oil, varnish, crayon, colored papers, sandpaper, graph paper, cardboard, metallic paint, and metal foil on plywood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79040"
+        }
+    ],
+    "Oil and tempera on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80502"
+        }
+    ],
+    "Oil, pencil, and charcoal on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79495"
+        }
+    ],
+    "Oil and pencil on cardboard": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79812"
+        }
+    ],
+    "Painted wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79701"
+        }
+    ],
+    "Glue tempera on cardboard mounted on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/91774"
+        }
+    ],
+    "Wood, rattan ring, paper, iron, and steel nails on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80532"
+        }
+    ],
+    "Oil and gouache on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80497"
+        }
+    ],
+    "Oil and cord on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78687"
+        }
+    ],
+    "Oil and bitumen on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78848"
+        }
+    ],
+    "Oil on gypsum": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80536"
         }
     ],
     "Oil on canvas over cardboard": [
@@ -4151,16 +4019,34 @@
             "url": "http://www.moma.org/collection/works/79643"
         }
     ],
-    "Oil and enamel paint on cardboard": [
+    "Oil, enamel, cut-and-pasted papers, ink, and pencil on canvas": [
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/38561"
+            "url": "http://www.moma.org/collection/works/94503"
         }
     ],
-    "Distemper on canvas with carved wood frame, four panels": [
+    "Synthetic polymer paint on canvas": [
         {
             "museum": "The Museum of Modern Art",
-            "url": "http://www.moma.org/collection/works/78664"
+            "url": "http://www.moma.org/collection/works/78605"
+        }
+    ],
+    "Acrylic on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79961"
+        }
+    ],
+    "Oil on canvas with rope": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80516"
+        }
+    ],
+    "Oil and inlaid mother of pearl on board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/291307"
         }
     ],
     "Oil on canvas with mounted wood frame section": [
@@ -4173,6 +4059,120 @@
         {
             "museum": "The Museum of Modern Art",
             "url": "http://www.moma.org/collection/works/80546"
+        }
+    ],
+    "Enamel on tile": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79357"
+        }
+    ],
+    "Oil on canvas mounted on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79180"
+        }
+    ],
+    "Oil on unglazed tile": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79188"
+        }
+    ],
+    "Oil over charcoal on gray board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79197"
+        }
+    ],
+    "Oil on cream wove cardstock mounted on board mounted on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79214"
+        }
+    ],
+    "Oil over black chalk on tan cardstock mounted on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79219"
+        }
+    ],
+    "Oil over black chalk on gray cardstock mounted on tan board": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79224"
+        }
+    ],
+    "Fresco on reinforced cement in galvanized-steel framework": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80682"
+        }
+    ],
+    "Oil on canvas with wood frame": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79153"
+        }
+    ],
+    "Oil and pencil on wood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79846"
+        }
+    ],
+    "Pencil, crayon, and oil on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/80604"
+        }
+    ],
+    "Distemper on canvas with carved wood frame, four panels": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78664"
+        }
+    ],
+    "Oil over bronze paint on plywood": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/78726"
+        }
+    ],
+    "Oil, silver, gold-bronze paint, and pencil on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79721"
+        }
+    ],
+    "Silk with appliqué of silk satin, shantung, and velvet, lined": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79020"
+        }
+    ],
+    "Gouache on paper, cut and pasted, and charcoal on paper mounted on canvas": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79187"
+        }
+    ],
+    "Gouache on paper, cut and pasted, on painted paper": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79462"
+        }
+    ],
+    "Crepe with crepe appliqué, lined and embroidered": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79559"
+        }
+    ],
+    "Etched and colored plaster with intaglio": [
+        {
+            "museum": "The Museum of Modern Art",
+            "url": "http://www.moma.org/collection/works/79828"
         }
     ],
     "Gouache and oil wash on paper": [
